@@ -33,12 +33,6 @@
     color: #FFFFFF;
   }
 
-  &__text {
-    font-size: 18px;
-    line-height: 22px;
-    color: #555555;
-  }
-
   &__item {
     display: flex;
     align-items: flex-start;
@@ -213,13 +207,6 @@
   }
 }
 
-.section .wechat-pay-section__h3 {
-  font-size: 32px;
-  line-height: 40px;
-  color: #555555;
-  font-weight: 800;
-}
-
 .wechat-pay-section__item_arrow:before {
   content: '';
   background: url("../img/wechat-pay-section__arrow.svg") no-repeat center;
@@ -264,21 +251,38 @@
 
 .right-links .douyin i {
   display: block;
-  background: url(../img/douyin.svg) center/50px no-repeat;
+  background: url(../img/douyin.svg) center/40px no-repeat;
   width: 70px;
   height: 70px;
 }
 
 .right-links .wechat-check i {
   display: block;
-  background: url(../img/cloud-check-icon.svg) center/50px no-repeat;
+  background: url(../img/cloud-check-icon.svg) center/40px no-repeat;
   width: 70px;
   height: 70px;
+}
+
+.main-text {
+  font-size: 18px;
+  line-height: 22px;
+  color: #555555;
+}
+
+h3.title-h3 {
+  font-size: 32px;
+  line-height: 40px;
+  color: #555555;
+  font-weight: 800;
 }
 
 @media (max-width: 767.98px) {
   .wechat-pay-section__item_arrow:before,
   .wechat-pay-section__img-phone {
     display: none;
+  }
+
+  .wechat-pay-section__block {
+    margin-bottom: 20px;
   }
 }
