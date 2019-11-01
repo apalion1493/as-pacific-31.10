@@ -1,0 +1,540 @@
+.promotion-page {
+  background: #3D3C3B url(../img/dev-main-image.jpg);
+  background-size: cover;
+}
+
+.promotion-page-first-slide {
+  p {
+    font-size: 18px;
+    color: #707070;
+  }
+}
+
+.promotion-page-second-slide p {
+  color: #555555;
+  font-size: 18px;
+}
+
+.promotion-page-right-section {
+  margin-top: 160px;
+}
+
+.promotion-page-right-section__block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 55px;
+}
+
+.promotion-page-right-section__block-img {
+  min-width: 80px;
+  margin-right: 30px;
+  display: flex;
+  justify-content: center;
+  align-self: flex-start;
+}
+
+.promotion-page-right-section__block-text {
+  p {
+    font-size: 20px;
+    color: #777777;
+  }
+
+  span {
+    font-size: 32px;
+    font-weight: bold;
+    color: #555555;
+  }
+
+  a {
+    color: #777777;
+  }
+}
+
+.promotion-page-right-section__icon-population {
+  background: url("../img/promotion-page__group-of-people-in-a-formation.svg") no-repeat center;
+  width: 67px;
+  height: 56px;
+  display: block;
+  background-size: 57px;
+}
+
+.promotion-page-right-section__icon-internet {
+  background: url("../img/promotion-page__internet.svg") no-repeat center;
+  width: 72px;
+  height: 72px;
+  display: block;
+  background-size: 57px;
+}
+
+.promotion-page-right-section__icon-girl {
+  background: url("../img/promotions-girl.svg") no-repeat center;
+  width: 72px;
+  height: 72px;
+  display: block;
+  background-size: 50px;
+}
+
+.promotion-page-right-section__icon-half {
+  background: url("../img/promotion-page__half.svg") no-repeat center;
+  width: 67px;
+  height: 67px;
+  display: block;
+}
+
+.promotion-page-right-section__icon-fourth {
+  background: url("../img/promotion-page__fourth.svg") no-repeat center;
+  width: 67px;
+  height: 67px;
+  display: block;
+}
+
+.promotion-page-right-section__icon-support {
+  background: url("../img/promotion-page__support.svg") no-repeat center;
+  width: 43px;
+  height: 57px;
+  display: block;
+}
+
+.promotion-page-right-section__icon-money {
+  background: url("../img/promotion-page__money.svg") no-repeat center;
+  width: 52px;
+  height: 56px;
+  display: block;
+}
+
+.promotion-page-right-section__icon-wechat {
+  background: url("../img/promotion-page__logo-wechat.svg") no-repeat center;
+  width: 58px;
+  height: 48px;
+  display: block;
+}
+
+.promotion-page-right-section__icon-weibo {
+  background: url("../img/promotion-page__logo-weibo.svg") no-repeat center;
+  width: 59px;
+  height: 48px;
+  display: block;
+}
+
+.promotion-page-right-section__icon-music {
+  background: url("../img/promotion-page__music__new-image.svg") no-repeat center;
+  width: 68px;
+  height: 60px;
+  display: block;
+}
+
+.promotion-page-second-slide__block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.promotion-page-second-slide__block-icon {
+  min-width: 85px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 45px;
+}
+
+.promotion-page-second-slide__icon-media {
+  background: url("../img/promotion-page__media.svg") no-repeat center;
+  width: 72px;
+  height: 72px;
+  display: block;
+}
+
+.promotion-page-second-slide__icon-text {
+  background: url("../img/promotion-page__text.svg") no-repeat center;
+  width: 79px;
+  height: 67px;
+  display: block;
+}
+
+.promotion-page-second-slide__icon-community {
+  background: url("../img/promotion-page__community.svg") no-repeat center;
+  width: 80px;
+  height: 78px;
+  display: block;
+}
+
+.promotion-page-second-slide__block-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  span {
+    font-weight: bold;
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 18px;
+    color: #555555;
+  }
+}
+
+.promotion-page-second-slide__first-section {
+  margin-bottom: 60px;
+}
+
+.promotion-page-first-slide__block-phone {
+  margin-top: 34px;
+  margin-bottom: 34px;
+  height: 593px;
+}
+
+.promotion-page-three-slide__logo-section {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+}
+
+
+.promotion-page-three-slide__logo-1 {
+  background: url("../img/promotion-page__wechat-3.svg") no-repeat center;
+  width: 170px;
+  height: 48px;
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.promotion-page-three-slide__logo-2 {
+  background: url("../img/promotion-page__logo-2.svg") no-repeat center;
+  width: 162px;
+  height: 50px;
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.promotion-page-three-slide__logo-3 {
+  background: url("../img/promotion-page__logo-3.svg") no-repeat center;
+  width: 65px;
+  height: 76px;
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.promotion-page-three-slide__logo-4 {
+  background: url("../img/promotion-page__logo-4.png") no-repeat center;
+  background-size: 100% auto;
+  width: 101px;
+  height: 48px;
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.promotion-page-three-slide__logo-5 {
+  background: url("../img/promotion-page__logo-5.png") no-repeat center;
+  background-size: 100% auto;
+  width: 152px;
+  height: 49px;
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.promotion-page-three-slide__logo-6 {
+  background: url("../img/promotion-page__logo-6.png") no-repeat center;
+  background-size: 100% auto;
+  width: 121px;
+  height: 59px;
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 70px;
+}
+
+.promotion-page-three-slide__logo-7 {
+  background: url("../img/promotion-page__Iogo-7.png") no-repeat center;
+  background-size: 100% auto;
+  width: 137px;
+  height: 65px;
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 70px;
+}
+
+.promotion-page-three-slide__logo-8 {
+  background: url("../img/promotion-page__Iogo-8.png") no-repeat center;
+  background-size: 100% auto;
+  width: 204px;
+  height: 67px;
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 70px;
+}
+
+.promotion-page-first-slide__block-phone {
+  display: flex;
+  left: 0;
+  position: relative;
+}
+
+.promotion-page__Phone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.promotion-page__Phone img {
+  transition: all 0.3s ease-out;
+  width: 303px;
+}
+
+.promotion-page__Phone img:hover {
+  transform: scale(1.1);
+  z-index: 490;
+}
+
+.promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(1) {
+  position: absolute;
+  left: -10%;
+}
+
+.promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(2) {
+  position: absolute;
+  left: 10%;
+}
+
+.promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(3) {
+  position: absolute;
+  left: 30%;
+}
+
+.promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(4) {
+  position: absolute;
+  right: 15%;
+}
+
+.promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(5) {
+  position: absolute;
+  right: -5%;
+}
+
+.promotion-page-right-section__span {
+  margin-top: 96px;
+  margin-bottom: 30px;
+  font-size: 28px;
+  font-weight: bold;
+  color: #333333;
+}
+
+@media (max-width: 1370px) {
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(1) {
+    position: absolute;
+    left: -5%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(2) {
+    position: absolute;
+    left: 11%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(3) {
+    position: absolute;
+    left: 27%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(4) {
+    position: absolute;
+    left: 38%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(5) {
+    position: absolute;
+    right: 0;
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(1) {
+    position: absolute;
+    left: -5%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(2) {
+    position: absolute;
+    left: 10%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(3) {
+    position: absolute;
+    left: 26%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(4) {
+    position: absolute;
+    right: 11%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(5) {
+    position: absolute;
+    right: -5%;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .dev-first-slide__right-container {
+    display: none;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(1) {
+    position: absolute;
+    left: -5%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(2) {
+    position: absolute;
+    left: 11%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(3) {
+    position: absolute;
+    left: 27%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(4) {
+    position: absolute;
+    left: 38%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(5) {
+    position: absolute;
+    right: 0;
+  }
+
+}
+
+@media (max-width: 767.98px) {
+  .promotion-page__Phone {
+    img {
+      width: 200px;
+    }
+  }
+
+  .promotion-page-first-slide__block-phone {
+    height: 400px;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(1) {
+    position: absolute;
+    left: -5%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(2) {
+    position: absolute;
+    left: 15%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(3) {
+    position: absolute;
+    left: 34%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(4) {
+    position: absolute;
+    left: 45%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(5) {
+    position: absolute;
+    right: 0;
+  }
+
+  .promotion-page-second-slide {
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 682px) {
+  .promotion-page-three-slide__logo-1 {
+    margin-top: 70px;
+  }
+
+  .promotion-page-three-slide__logo-2 {
+    margin-top: 70px;
+  }
+
+  .promotion-page-three-slide__logo-3 {
+    margin-top: 70px;
+  }
+
+  .promotion-page-three-slide__logo-4 {
+    margin-top: 70px;
+  }
+
+  .promotion-page-three-slide__logo-5 {
+    margin-top: 70px;
+  }
+}
+
+@media (max-width: 670px) {
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(1) {
+    position: absolute;
+    left: -5%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(2) {
+    position: absolute;
+    left: 14%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(3) {
+    position: absolute;
+    left: 32%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(4) {
+    position: absolute;
+    left: 43%;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(5) {
+    position: absolute;
+    right: 0;
+  }
+}
+
+@media (max-width: 610px) {
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(1) {
+    position: relative;
+    left: 0;
+    right: 0;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(2) {
+    position: relative;
+    left: 0;
+    right: 0;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(3) {
+    position: relative;
+    left: 0;
+    right: 0;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(4) {
+    position: relative;
+    left: 0;
+    right: 0;
+  }
+
+  .promotion-page-first-slide__block-phone .promotion-page__Phone:nth-child(5) {
+    position: relative;
+    left: 0;
+    right: 0;
+    display: none;
+  }
+
+  .promotion-page-first-slide__block-phone {
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+}
+

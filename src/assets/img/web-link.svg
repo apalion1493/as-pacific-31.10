@@ -1,0 +1,29 @@
+<svg id="web-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.922 41.013">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cb2023;
+      }
+
+      .cls-2 {
+        fill: #282625;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="Path_278" data-name="Path 278" class="cls-1" d="M38,40H75.2V64.76H38Zm0,0" transform="translate(-33.855 -35.637)"/>
+  <path id="Path_280" data-name="Path 280" class="cls-2" d="M94.446,323v4.036H87.416a.873.873,0,1,0,0,1.745h25.349a.873.873,0,1,0,0-1.745H105.79V323Zm0,0" transform="translate(-77.103 -287.768)"/>
+  <g id="Group_125" data-name="Group 125">
+    <path id="Path_279" data-name="Path 279" class="cls-2" d="M45.921,31.087V2.4a2.4,2.4,0,0,0-2.4-2.4H2.4A2.4,2.4,0,0,0,0,2.4V31.087a2.4,2.4,0,0,0,2.4,2.4H43.522A2.4,2.4,0,0,0,45.921,31.087ZM43.085,30a.873.873,0,0,1-.873.873H3.272A.873.873,0,0,1,2.4,30V3.49a.873.873,0,0,1,.873-.873h38.94a.873.873,0,0,1,.873.873Zm0,0"/>
+    <g id="Group_124" data-name="Group 124" transform="translate(3)">
+      <path id="Path_281" data-name="Path 281" class="cls-3" d="M14.857,21.9l-3.869-3.869,3.869-3.869" transform="translate(2.564 -1)"/>
+      <path id="Path_282" data-name="Path 282" class="cls-3" d="M14.857,21.9l-3.869-3.869,3.869-3.869" transform="translate(35.41 35.064) rotate(180)"/>
+    </g>
+  </g>
+</svg>

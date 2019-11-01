@@ -1,0 +1,533 @@
+.tourists-china-attraction-section__h2 {
+  max-width: 1090px !important;
+  margin-bottom: 50px;
+}
+
+.tourists-china-attraction-section__text {
+  font-size: 18px;
+  color: #555;
+}
+
+.tourists-china-attraction-section__first-text  {
+
+  span {
+    font-weight: bold;
+    color: #333333;
+  }
+}
+
+.tourists-china-attraction-section__infrastructure-block {
+  display: flex;
+  align-items: center;
+
+  p {
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #555555;
+  }
+}
+
+.tourists-china-attraction-section__infrastructure-block-img {
+  max-width: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 25px;
+  margin-left: 30px;
+  align-self: flex-start;
+}
+
+.tourists-china-attraction-section__icon-language {
+  background: url("../../assets/img/new-tourists-china__language.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 58px;
+  height: 58px;
+  display: block;
+}
+
+.tourists-china-attraction-section__icon-world {
+  background: url("../../assets/img/new-tourists-china__world.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 53px;
+  height: 53px;
+  display: block;
+}
+
+.tourists-china-attraction-section__icon-qr {
+  background: url("../../assets/img/new-tourists-china__qr-code.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 51px;
+  height: 51px;
+  display: block;
+}
+
+.tourists-china-attraction-section__infrastructure-section {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.tourists-china-attraction-section__text-bold {
+  font-weight: bold;
+  color: #333333;
+}
+
+.promotion-page-right-section__span {
+  margin-top: 0;
+}
+
+.tourists-china-attraction-section__social-network {
+  margin-top: 36px;
+  margin-bottom: 62px;
+  p {
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #555555;
+  }
+}
+
+
+.tourists-china-attraction-section__social-wechat {
+  background: rgba(76, 175, 80, .2);
+  padding: 43px 44px 28px 54px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+
+.tourists-china-attraction-section__social-weibo {
+  padding: 43px 44px 28px 54px;
+  background: rgba(234, 83, 59, .2);
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.tourists-china-attraction-section__social-img {
+  max-width: 85px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 35px;
+}
+
+.tourists-china-attraction-section__social-wechat-icon {
+  background: url("../../assets/img/new-tourists-china__wechat2.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 81px;
+  height: 81px;
+  display: block;
+}
+
+.tourists-china-attraction-section__social-weibo-icon {
+  background: url("../../assets/img/new-tourists-china__weibo2.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 82px;
+  height: 68px;
+  display: block;
+}
+
+.tourists-china-attraction-section .tourists-china-attraction-section__h3 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #555555;
+  max-width: 100%;
+}
+
+.tourists-china-attraction-section__bottom-block {
+  position: relative;
+}
+
+.tourists-china-attraction-section__block-phone {
+  position: absolute;
+  background: url("../../assets/img/new-tourists-china__phone@2x.png") no-repeat center;
+  background-size: 100% auto;
+  width: 1000px;
+  height: 1100px;
+  right: -530px;
+  top: -385px;
+}
+
+.money-tourists-china__list-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.money-tourists-china__list-top-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 28px;
+
+  span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #555555;
+  }
+}
+
+.money-tourists-china__list-img-block {
+  max-width: 70px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+  margin-left: 10px;
+}
+
+.money-tourists-china__list-icon-dwelling {
+  background: url("../../assets/img/new-tourists-china__hotel.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 66px;
+  height: 58px;
+  display: block;
+}
+
+.money-tourists-china__list-icon-shopping {
+  background: url("../../assets/img/new-tourists-china__store.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 69px;
+  height: 68px;
+  display: block;
+}
+
+.money-tourists-china__list-bottom-block {
+  span {
+    font-size: 18px;
+    font-weight: bold;
+    color: #555555;
+    margin-bottom: 12px;
+    display: block;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: #555555;
+  }
+
+  i {
+    display: block;
+    min-width: 10px;
+    height: 10px;
+    background: #CB2023;
+    margin-right: 16px;
+    border-radius: 50%;
+    align-self: flex-start;
+    margin-top: 10px;
+  }
+}
+
+.money-tourists-china__list-icon-food {
+  background: url("../../assets/img/new-tourists-china__food.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 61px;
+  height: 60px;
+  display: block;
+}
+
+.money-tourists-china-section {
+  h3 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #555555;
+  }
+}
+
+.money-tourists-china__list-icon-moscow {
+  background: url("../../assets/img/new-tourists-china__kremlin.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 61px;
+  height: 61px;
+  display: block;
+}
+
+.money-tourists-china__list-icon-peter {
+  background: url("../../assets/img/new-tourists-china__petersburg.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 61px;
+  height: 61px;
+  display: block;
+}
+
+.money-tourists-china__excursion-top-block {
+  margin-top: 35px;
+  margin-bottom: 50px;
+}
+
+.money-tourists-china__enumeration-list {
+  padding-left: 0;
+  position: relative;
+  margin-bottom: 0;
+
+  div {
+    display: flex;
+    align-items: center;
+  }
+
+  li {
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    padding-left: 22px;
+  }
+
+  p {
+    margin-bottom: 0;
+    display: block;
+  }
+
+  span {
+    font-weight: bold;
+    font-style: normal;
+    color: #cb2023;
+    font-size: 24px;
+    padding-right: 15px;
+    min-width: 39px;
+  }
+
+  li:nth-child(even) {
+    background: rgba(203, 32, 35, .1);
+  }
+}
+
+.money-tourists-china__enumeration-moscow:after {
+  content: '';
+  background: url("../../assets/img/new-tourists-china__mask-moscow@2x.png") no-repeat right;
+  background-size: 100% auto;
+  width: 307px;
+  height: 391px;
+  position: absolute;
+  right: 15px;
+  bottom: 0;
+  z-index: -1;
+  opacity: .8;
+}
+
+.money-tourists-china__enumeration-peter:after {
+  content: '';
+  background: url("../../assets/img/new-tourists-china__mask-peter@2x.png") no-repeat right;
+  background-size: 100% auto;
+  width: 307px;
+  height: 391px;
+  position: absolute;
+  right: 15px;
+  bottom: 0;
+  z-index: -1;
+  opacity: .8;
+}
+
+.tourists-china-section__acquaintance {
+  padding: 50px;
+  display: block;
+  margin-top: 70px;
+  background-color: rgba(203, 32, 35, .15);
+  p {
+    margin-bottom: 0;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #555555;
+  }
+}
+
+.right-links {
+  display: flex;
+  align-items: center;
+  margin-bottom: 27px;
+
+  a {
+    margin-left: 30px;
+    color: #777777;
+    font-size: 20px;
+  }
+}
+
+
+.right-links.benefits {
+  margin-bottom: 20px;
+}
+
+.benefits span {
+  font-size: 18px;
+  color: #555;
+}
+
+.right-links-inset {
+  max-width: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.right-links-inset.start-up-weibo i {
+  background: url("../../assets/img/start-up-weibo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 52px;
+  height: 52px;
+  display: block;
+}
+
+.right-links-inset.teamwork-weibo i {
+  background: url("../../assets/img/teamwork-weibo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 47px;
+  height: 47px;
+  display: block;
+}
+
+.right-links-inset.smartphone-weibo i {
+  background: url("../../assets/img/smartphone-weibo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 28px;
+  height: 49px;
+  display: block;
+}
+
+.right-links-inset.podium-weibo i {
+  background: url("../../assets/img/podium-weibo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 42px;
+  height: 42px;
+  display: block;
+}
+
+.right-links-inset.airplane-weibo i {
+  background: url("../../assets/img/airplane-weibo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 42px;
+  height: 42px;
+  display: block;
+}
+
+.right-links-inset .right-links-inset__wechat {
+  background: url("../../assets/img/new-tourists-china__wechat.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 52px;
+  height: 43px;
+  display: block;
+}
+
+.right-links .right-links-inset__weibo {
+  background: url("../../assets/img/new-tourists-china__weibo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 49px;
+  height: 40px;
+  display: block;
+}
+
+.tourists-china-section .tourists-china-section__link {
+  text-decoration: none;
+  border-bottom: 1px dashed #CB2023;
+  color: #CB2023;
+}
+
+.money-tourists-china__list-section-text {
+  margin-left: 103px;
+  margin-top: -40px;
+}
+
+.tooltip-inner {
+  max-width: 250px;
+  padding: 15px;
+  color: #555;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 10px;
+  width: 252px;
+  box-shadow: 0px 3px 6px #999;
+  font-size: 16px;
+  text-align: left;
+}
+
+.arrow:before {
+  border-top-color: #FFFFFF !important;
+}
+
+@media (min-width: 933px) and (max-width: 1226px) {
+  .money-tourists-china__excursion-top-block {
+    height: 108px;
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .tourists-china-attraction-section__block-phone {
+    display: none;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .money-tourists-china__list-section-text {
+    margin-left: 0;
+    margin-top: 0;
+  }
+}
+
+@include media-breakpoint-down(xs) {
+  .tourists-china-attraction-section__social-wechat,
+  .tourists-china-attraction-section__social-weibo {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .tourists-china-attraction-section__social-img {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .tourists-china-section__acquaintance {
+    padding: 25px;
+
+    p {
+      font-size: 20px;
+    }
+  }
+
+  .tourists-china-section__icon {
+    margin-right: 22px;
+  }
+
+  .right-links a {
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width: 510px) {
+  .section h3 {
+    font-size: 24px !important;
+  }
+
+  .money-tourists-china__list-top-block span {
+    font-size: 18px;
+  }
+
+  .tourists-china-attraction-section__infrastructure-block-img {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .money-tourists-china__list-img-block {
+    margin-right: 15px;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .right-links.benefits {
+    display: none;
+  }
+}

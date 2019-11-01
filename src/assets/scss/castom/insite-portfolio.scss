@@ -1,0 +1,242 @@
+.top-block-port {
+  position: relative;
+  border-left: solid 7px #CB2023;
+  padding: 40px 50px 40px 30px;
+  border-radius: 5px;
+  margin-top: -140px;
+  background: #fff;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.top-block-port:after {
+  content: '';
+  display: block;
+  bottom: -10px;
+  left: 15px;
+  right: 15px;
+  z-index: -1;
+  height: 30px;
+  background: #000;
+  opacity: 0.3;
+  position: absolute;
+  border-radius: 5px;
+  filter: blur(8px);
+}
+
+.top-block-port p {
+  font-size: 20px;
+  color: #555555;
+  font-weight: 400;
+}
+
+
+.top-block-port a {
+  border: 1px solid #CB2023;
+  font-size: 16px;
+  color: #333333;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+.top-block-port a:hover {
+  background: #CB2023;
+  color: #fff;
+}
+
+.task {
+  padding: 70px 40px 70px 230px;
+  background: url("../img/goal.svg") no-repeat 30px 90px;
+  background-size: 150px auto;
+}
+
+
+.task p {
+  font-size: 24px;
+  font-style: italic;
+  color: #555;
+}
+
+
+.icons-portfolio-block p {
+  min-height: 60px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-left: 100px;
+  position: relative;
+
+}
+
+.businessman-in-presentation {
+  display: block;
+  width: 52px;
+  height: 48px;
+  background: url(../img/businessman.svg) no-repeat center;
+  position: absolute;
+  left: 20px;
+  top: 0px;
+}
+
+
+.statistic-up {
+  display: block;
+  width: 46px;
+  height: 43px;
+  background: url(../img/statistics-p.svg) no-repeat center;
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+.portfolio-bottom-block {
+  margin-top: -50px;
+}
+
+.adgex {
+  background: #3D3C3B url(../img/ADGEX.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.farmskins {
+  background: #3D3C3B url(../img/FARMSKINS.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.inspectcar {
+  background: #3D3C3B url(../img/INSPECTCAR.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.nikiforova {
+  background: #3D3C3B url(../img/nifontova.jpg) no-repeat center top;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.upway {
+  background: #3D3C3B url(../potfolio-files/59/cover-head.jpg) no-repeat center top;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+#upway {
+  background: #fff url(../potfolio-files/59/cover.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.express {
+  background: #3D3C3B url(../potfolio-files/68/air-express-banner.png) no-repeat center top;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+#express {
+  background: #fff url(../potfolio-files/68/air-express.png) no-repeat center;
+  background-size: cover;
+}
+
+.incriises {
+  background: #3D3C3B url(../potfolio-files/69/incruises-banner.png) no-repeat center top;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+#incriises {
+  background: #fff url(../potfolio-files/69/incruises.png) no-repeat center;
+  background-size: cover;
+}
+
+.solid {
+  background: #3D3C3B url(../potfolio-files/70/solid-banner.png) no-repeat center top;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+#solid {
+  background: #fff url(../potfolio-files/70/solid.png) no-repeat center;
+  background-size: cover;
+}
+
+.tiac {
+  background: #3D3C3B url(../potfolio-files/60/cover-head.jpg) no-repeat center top;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+#tiac {
+  background: #fff url(../potfolio-files/60/cover.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.in-port p {
+  color: #555;
+  font-size: 18px;
+}
+
+
+.ad-icon-block {
+  display: block;
+  width: 58px;
+  height: 55px;
+  background: url(../img/browser.svg) no-repeat center;
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+.conference-hall {
+  display: block;
+  width: 61px;
+  height: 62px;
+  background: url(../img/conference-hall.svg) no-repeat center;
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+.stat-up {
+  display: block;
+  width: 63px;
+  height: 53px;
+  background: url(../img/stats-p.svg) no-repeat center;
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+  width: 5%;
+}
+
+.img-inspect {
+  padding-bottom: 20px;
+}
+
+.img-inspect img {
+  width: 100%;
+  transition: all 0.3s ease-out;
+}
+
+.img-inspect img:hover {
+  -ms-transform: scale(1.4);
+  transform: scale(1.4);
+  z-index: 490;
+  position: relative;
+}
+
+.center-ecspo {
+  background: #3D3C3B url(../img/header-center@2x.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+#centerEcspo {
+  background: url(../img/prev-center@2x.jpg) no-repeat center;
+  background-size: cover;
+}

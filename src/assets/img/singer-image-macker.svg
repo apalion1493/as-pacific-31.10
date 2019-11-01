@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84.239 77.901">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3d3c3b;
+      }
+
+      .cls-2 {
+        fill: #cb2023;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #bd3033;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="atl" transform="matrix(0.848, -0.53, 0.53, 0.848, -7.168, 39.094)">
+    <path id="Shape" class="cls-1" d="M24.78,1.515V0H5.117V3.416H0v14.16H5.117v3.416H24.78V19.477h0V1.515Z" transform="translate(0 13.526)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-2" d="M11.934,0H0L3.014,13.789H14.948L11.934,0Z" transform="translate(10.233 38.367)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-2" d="M4.483,12.367C2.844,12.985,1.391,13.5,0,13.912v20.1c1.329.417,2.844.943,4.483,1.546A85.731,85.731,0,0,1,26.511,47.92V0A86.2,86.2,0,0,1,4.483,12.367Z" transform="translate(28.613)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-2" d="M1.02,0H0V17.932H1.02a4.637,4.637,0,0,0,4.637-4.637V4.684A4.637,4.637,0,0,0,1.02,0Z" transform="translate(58.958 15.056)"/>
+    <line id="Line_14" data-name="Line 14" class="cls-3" y1="5" x2="6.783" transform="translate(73.547 6.37)"/>
+    <line id="Line_16" data-name="Line 16" class="cls-3" y1="0.866" x2="7.738" transform="translate(77.259 23.435)"/>
+    <line id="Line_15" data-name="Line 15" class="cls-3" x2="6.784" y2="4.434" transform="translate(72.914 36.916)"/>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) {
+
+  .image-ico {
+    background: url(../img/ico-img-2x.png) no-repeat left center;
+    background-size: 100%;
+  }
+
+  #pb-1 {
+    background: url(../img/ADGEX@2x.jpg) no-repeat center;
+    background-size: cover;
+  }
+
+  #pb-2 {
+    background: #fff url(../img/eticket4@2x.jpg) no-repeat right -37px;
+    background-size: 398px;
+  }
+
+  #pb-3 {
+    background: #fff url(../img/selfllery@2x.jpg) no-repeat center;
+    background-size: 774px;
+  }
+
+  #pb-4 {
+    background: #fff url(../img/LARSONHOLZ@2x.png) no-repeat center;
+    background-size: 75%;
+  }
+
+  #pb-5 {
+    background: #fff url(../img/adhive@2x.jpg) no-repeat center;
+    background-size: cover;
+  }
+
+  #pb-6 {
+    background: #fff url(../img/telluria@2x.jpg) no-repeat center;
+    background-size: cover;
+  }
+
+  .map {
+    background: url("../img/map@2x.jpg") right center;
+    background-size: cover;
+  }
+
+  .map.en {
+    background: url("../img/map@2x-en.jpg") right center;
+    background-size: cover;
+  }
+
+  //.phone-block-animate {
+  //  background: url("../img/phones-art@2x.png") no-repeat left center;
+  //}
+
+  .portfolio.section#section1 {
+    background: #1A1A1A url(../img/map-line@2x.png) no-repeat;
+    background-size: 100%;
+    background-position: right 40px top 100px;
+  }
+
+}
+
+
+
+

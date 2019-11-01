@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 604 395">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #afafaf;
+      }
+
+      .cls-2 {
+        stroke: #e8e8e8;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #555;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 14px;
+      }
+
+      .cls-4, .cls-6 {
+        font-family: Scada-Bold, Scada;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #777;
+        font-family: Scada-Regular, Scada;
+      }
+
+      .cls-6 {
+        fill: #282625;
+        font-size: 16px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb2023"/>
+      <stop offset="1" stop-color="#fa777a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_144" data-name="Group 144" transform="translate(-982 -713)">
+    <line id="Line_1" data-name="Line 1" class="cls-1" y2="352" transform="translate(1113 713)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-2" y2="352" transform="translate(1203 713)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-2" y2="352" transform="translate(1294 713)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-2" y2="352" transform="translate(1385 713)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-2" y2="352" transform="translate(1476 713)"/>
+    <line id="Line_6" data-name="Line 6" class="cls-2" y2="352" transform="translate(1567 713)"/>
+    <path id="Rectangle_1" data-name="Rectangle 1" class="cls-3" d="M0,0H305.3a12.5,12.5,0,0,1,12.5,12.5v0A12.5,12.5,0,0,1,305.3,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1113 735)"/>
+    <path id="Rectangle_4" data-name="Rectangle 4" class="cls-3" d="M0,0H296.22a12.5,12.5,0,0,1,12.5,12.5v0A12.5,12.5,0,0,1,296.22,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1113 779)"/>
+    <path id="Rectangle_5" data-name="Rectangle 5" class="cls-3" d="M0,0H141.86a12.5,12.5,0,0,1,12.5,12.5v0A12.5,12.5,0,0,1,141.86,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1113 823)"/>
+    <path id="Rectangle_6" data-name="Rectangle 6" class="cls-3" d="M0,0H128.24a12.5,12.5,0,0,1,12.5,12.5v0A12.5,12.5,0,0,1,128.24,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1113 867)"/>
+    <path id="Rectangle_7" data-name="Rectangle 7" class="cls-3" d="M0,0H32.9A12.5,12.5,0,0,1,45.4,12.5v0A12.5,12.5,0,0,1,32.9,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1113 911)"/>
+    <path id="Rectangle_8" data-name="Rectangle 8" class="cls-3" d="M0,0H14.74a12.5,12.5,0,0,1,12.5,12.5v0A12.5,12.5,0,0,1,14.74,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1113 955)"/>
+    <path id="Rectangle_9" data-name="Rectangle 9" class="cls-3" d="M0,0H14.74a12.5,12.5,0,0,1,12.5,12.5v0A12.5,12.5,0,0,1,14.74,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1113 999)"/>
+    <path id="Rectangle_10" data-name="Rectangle 10" class="cls-3" d="M0,0H1.12a12.5,12.5,0,0,1,12.5,12.5v0A12.5,12.5,0,0,1,1.12,25H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1113 1043)"/>
+    <text id="_69.90_" data-name="69.90%" class="cls-4" transform="translate(1444 753)"><tspan x="0" y="0">69.90%</tspan></text>
+    <text id="_68.00_" data-name="68.00%" class="cls-4" transform="translate(1434 796)"><tspan x="0" y="0">68.00%</tspan></text>
+    <text id="_34.60_" data-name="34.60%" class="cls-4" transform="translate(1277 840)"><tspan x="0" y="0">34.60%</tspan></text>
+    <text id="_31.70_" data-name="31.70%" class="cls-4" transform="translate(1267 885)"><tspan x="0" y="0">31.70%</tspan></text>
+    <text id="_10.30_" data-name="10.30%" class="cls-4" transform="translate(1169 928)"><tspan x="0" y="0">10.30%</tspan></text>
+    <text id="_6.60_" data-name="6.60%" class="cls-4" transform="translate(1154 972)"><tspan x="0" y="0">6.60%</tspan></text>
+    <text id="_6.20_" data-name="6.20%" class="cls-4" transform="translate(1154 1016)"><tspan x="0" y="0">6.20%</tspan></text>
+    <text id="_3.40_" data-name="3.40%" class="cls-4" transform="translate(1141 1060)"><tspan x="0" y="0">3.40%</tspan></text>
+    <text id="_20_" data-name="20%" class="cls-5" transform="translate(1188 1104)"><tspan x="0" y="0">20%</tspan></text>
+    <text id="QQ_Music" data-name="QQ Music" class="cls-6" transform="translate(982 754)"><tspan x="0" y="0">QQ Music</tspan></text>
+    <text id="Kugou_Music" data-name="Kugou Music" class="cls-6" transform="translate(982 798)"><tspan x="0" y="0">Kugou Music</tspan></text>
+    <text id="Kuwo_Music" data-name="Kuwo Music" class="cls-6" transform="translate(982 842)"><tspan x="0" y="0">Kuwo Music</tspan></text>
+    <text id="_163_Music" data-name="163 Music" class="cls-6" transform="translate(982 886)"><tspan x="0" y="0">163 Music</tspan></text>
+    <text id="Xiami_Music" data-name="Xiami Music" class="cls-6" transform="translate(982 930)"><tspan x="0" y="0">Xiami Music</tspan></text>
+    <text id="Baidu_Music" data-name="Baidu Music" class="cls-6" transform="translate(982 974)"><tspan x="0" y="0">Baidu Music</tspan></text>
+    <text id="Migu_Music" data-name="Migu Music" class="cls-6" transform="translate(982 1018)"><tspan x="0" y="0">Migu Music</tspan></text>
+    <text id="Duomi_Music" data-name="Duomi Music" class="cls-6" transform="translate(982 1062)"><tspan x="0" y="0">Duomi Music</tspan></text>
+    <text id="_40_" data-name="40%" class="cls-5" transform="translate(1280 1104)"><tspan x="0" y="0">40%</tspan></text>
+    <text id="_60_" data-name="60%" class="cls-5" transform="translate(1372 1104)"><tspan x="0" y="0">60%</tspan></text>
+    <text id="_80_" data-name="80%" class="cls-5" transform="translate(1468 1104)"><tspan x="0" y="0">80%</tspan></text>
+    <text id="_100_" data-name="100%" class="cls-5" transform="translate(1553 1104)"><tspan x="0" y="0">100%</tspan></text>
+  </g>
+</svg>

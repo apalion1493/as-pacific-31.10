@@ -1,0 +1,138 @@
+.ico-first-slide.section {
+  background: url(../img/ico.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.iso-second-slide p {
+  font-size: 18px;
+  color: $gray5;
+  max-width: 1000px;
+}
+
+.iso-second-slide {
+  background: url("../img/map.svg") no-repeat right -500px top 0px;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.ico-direct {
+  padding-left: 115px;
+  padding-bottom: 60px;
+}
+
+
+
+.ico-direct h3 {
+  color: $white;
+  font-size: 36px;
+  padding-bottom: 10px;
+}
+
+.ico-direct p {
+  color: $white;
+  font-size: 18px;
+}
+
+.ico-direct ul {
+  padding-top: 10px;
+}
+
+.ico-direct li {
+  color: $white;
+  font-size: 18px;
+  list-style-image: url("../img/oval.svg");
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
+
+
+.ico-icon-1 {
+  background: url("../img/laptop.svg") no-repeat 25px 5px;
+  background-size: 66px;
+}
+
+.ico-icon-2 {
+  background: url("../img/wechat.svg") no-repeat 25px 5px;
+}
+
+.ico-icon-3 {
+   background: url("../img/weibo.svg") no-repeat 25px 5px;
+ }
+
+.ico-icon-4 {
+  background: url("../img/business.svg") no-repeat 25px 5px;
+}
+
+
+.f-s-b-t {
+  display: table;
+  padding-left: 90px;
+  margin-bottom: 30px;
+  min-height: 100px;
+  color: $gray3;
+  font-weight: bold;
+}
+
+.f-s-b-t span {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#b-t-1 {
+  background: url("../img/1-i.svg") no-repeat 25px center;
+}
+
+#b-t-2 {
+  background: url("../img/2-i.svg") no-repeat 25px center;
+}
+
+#b-t-3 {
+  background: url("../img/3-i.svg") no-repeat 25px center;
+}
+
+#b-t-4 {
+  background: url("../img/4-i.svg") no-repeat 25px center;
+}
+
+.fourth-slide-block {
+  padding-bottom: 30px;
+}
+
+.fourth-slide-block p {
+  font-size: 18px;
+  color: $gray5;
+}
+
+.fourth-slide-block li {
+  font-size: 18px;
+  color: $gray5;
+  padding-bottom: 5px;
+  list-style-image: url("../img/red-dott.svg");
+  padding-left: 10px;
+}
+
+.points-letter {
+  position: relative;
+  padding-left: 60px;
+}
+
+.points-letter span {
+  position: absolute;
+  left: 10px;
+  top:10px;
+  background: #DD474F;
+  color: $white;
+  text-align: center;
+  padding-top: 2px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+

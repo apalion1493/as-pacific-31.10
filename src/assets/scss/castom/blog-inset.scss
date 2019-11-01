@@ -1,0 +1,280 @@
+.date-inset-block {
+  padding: 5px 0px;
+  border-radius: 3px;
+  margin-bottom: 12px;
+  margin-top: 24px;
+}
+.social-block {
+  margin-right: 10px;
+  padding-bottom: 10px;
+}
+
+.social-block span {
+  font-weight: bold;
+  font-size: 16px;
+  color: #555555;
+}
+
+.pluso {
+  opacity: 0.5;
+  padding-top: 3px;
+}
+
+.pluso:hover {
+  opacity: 1;
+}
+
+.blog-inset {
+  max-width: 830px;
+  padding-bottom: 30px;
+}
+
+.blog-inset p {
+  font-size: 20px;
+  color: #333;
+  line-height: 30px;
+}
+
+.blog-inset ul li {
+  color: #CB2023;
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+
+.blog-inset ul li p {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.section .blog-inset h2 {
+  font-size: 32px;
+  color: #222;
+  padding-top: 20px;
+  text-transform: inherit;
+  font-weight: bold;
+}
+
+.section .blog-inset h3 {
+  font-size: 28px;
+  color: #222;
+  padding-top: 20px;
+  text-transform: inherit;
+  padding-bottom: 15px;
+}
+
+.section .blog-inset h4 {
+  font-size: 24px;
+  color: #222;
+  padding-top: 20px;
+  text-transform: inherit;
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+
+.photo-right-blog {
+  float: right;
+  width: 400px;
+  padding-left: 30px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.photo-right-blog img {
+  width: 100%;
+}
+
+.photo-right-blog span {
+  font-size: 16px;
+  color: #777777;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+}
+
+.photo-left-blog {
+  float: left;
+  width: 400px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.photo-left-blog img {
+  width: 100%;
+}
+
+.photo-left-blog span {
+  font-size: 16px;
+  color: #777777;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+}
+
+.photo-center-blog {
+  max-width: 800px;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo-center-blog img {
+  width: 100%;
+}
+
+.photo-center-blog span {
+  font-size: 16px;
+  color: #777777;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+}
+
+
+
+.image {
+  cursor:zoom-in;
+}
+
+.popup {
+  position: absolute;
+  height:100%;
+  width:100%;
+  top:0;
+  left:0;
+  display:none;
+  text-align:center;
+}
+
+.popup_bg {
+  background:rgba(0,0,0,0.3);
+  position:fixed;
+  z-index:1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: auto;
+  height: auto;
+}
+
+
+.popup_img {
+  position: fixed;
+  z-index:2;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  max-width: 800px;
+  width: 90%;
+}
+
+.popup_img {
+  pointer-events: none;
+}
+
+
+.pluso {
+  margin-top: 6px;
+}
+
+.inner-bottom-xs h3, .leave-reply h3 {
+  font-size: 24px;
+  color: #333;
+  border-bottom: 1px solid #707070;
+  padding-bottom: 10px;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+.ticket-comment {
+  border: 1px solid #D0D0D0;
+  max-width: 900px;
+  margin-bottom: 20px;
+  list-style: none;
+  padding: 20px;
+}
+
+.ticket-comment-guest .ticket-comment-author {
+  font-size: 16px;
+  color: #CB2023!important;
+  padding-right: 15px;
+  margin-left: 0px;
+}
+
+.ticket-comment-createdon {
+  color: #777777;
+  padding-right: 10px;
+}
+
+.ticket-comment-text {
+  color: #777;
+  padding: 15px 0px;
+}
+
+.le-input {
+  background: #E5E7ED;
+  border: 0px;
+  height: 40px;
+  width: 100%;
+  padding-left: 15px;
+  margin-bottom: 10px;
+}
+
+.form-block {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#comment-form-placeholder {
+  max-width: 900px;
+}
+
+#comment-editor {
+  border-radius: 0px;
+  background: #E5E7ED;
+  border: 0px;
+  height: 140px;
+  width: 100%;
+  max-width: 900px;
+}
+
+label#comment-captcha {
+  color: #555;
+}
+
+#comment-captcha.form-control {
+  background: #E5E7ED;
+  border: 0px;
+  height: 40px;
+  width: 100px;
+  border-radius: 0px;
+}
+
+.le-button {
+  height: 50px;
+  background: #CB2023;
+  color: #fff;
+  border-radius: 25px;
+  width: 200px;
+  border: 1px;
+}
+
+.pluso-wrap a {
+  margin-right: 10px!important;
+}
+
+.header-image {
+  height: 350px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-color: #555;
+  margin-bottom: 40px;
+}

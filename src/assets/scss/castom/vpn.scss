@@ -1,0 +1,36 @@
+.vpn-page {
+  background: #3D3C3B url(../img/vpn@2x.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.adhive {
+  background: #3D3C3B url(../img/adHive-banner.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+#vpn  {
+  background: url(../img/vpn-banner.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.vpn-statistic {
+  display: block;
+  width: 58px;
+  height: 55px;
+  background: url(../img/statistics.svg) no-repeat center;
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+.people-more {
+  display: block;
+  width: 58px;
+  height: 55px;
+  background: url(../img/people-more.svg) no-repeat center;
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}

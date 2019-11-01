@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 537 219">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #afafaf;
+      }
+
+      .cls-2 {
+        opacity: 0.329;
+      }
+
+      .cls-3 {
+        fill: #c1b0b0;
+        opacity: 0.341;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke: #cecece;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-8 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        fill: #777;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-8 {
+        fill: #282625;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        filter: url(#Ellipse_6);
+      }
+
+      .cls-12 {
+        filter: url(#Ellipse_5);
+      }
+
+      .cls-13 {
+        filter: url(#Ellipse_4);
+      }
+
+      .cls-14 {
+        filter: url(#Ellipse_3);
+      }
+
+      .cls-15 {
+        filter: url(#Ellipse_2);
+      }
+
+      .cls-16 {
+        filter: url(#Ellipse_1);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb2023"/>
+      <stop offset="1" stop-color="#fa777a"/>
+    </linearGradient>
+    <filter id="Ellipse_1" x="68" y="28" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2" x="146" y="78" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3" x="223" y="61" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_4" x="302" y="24" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5" x="380" y="17" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_6" x="458" y="38" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9" data-name="Group 9" transform="translate(-1001 -1676)">
+    <line id="Line_9" data-name="Line 9" class="cls-1" x1="474" transform="translate(1033 1866)"/>
+    <line id="Line_10" data-name="Line 10" class="cls-2" x1="474" transform="translate(1033 1824)"/>
+    <line id="Line_11" data-name="Line 11" class="cls-2" x1="474" transform="translate(1033 1782)"/>
+    <line id="Line_12" data-name="Line 12" class="cls-2" x1="474" transform="translate(1033 1743)"/>
+    <line id="Line_13" data-name="Line 13" class="cls-2" x1="474" transform="translate(1033 1703)"/>
+    <path id="Path_1" data-name="Path 1" class="cls-3" d="M10313.831-14708h474v-132.9l-34.546-8.35-77.592-21.32-77.858,6.984-82,36.639-74,16.915-128-85.614Z" transform="translate(-9280.832 16574)"/>
+    <path id="Rectangle_15" data-name="Rectangle 15" class="cls-4" d="M15,0h0A15,15,0,0,1,30,15V117a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1067 1749)"/>
+    <path id="Rectangle_16" data-name="Rectangle 16" class="cls-4" d="M15,0h0A15,15,0,0,1,30,15V123a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1145 1743)"/>
+    <path id="Rectangle_17" data-name="Rectangle 17" class="cls-4" d="M15,0h0A15,15,0,0,1,30,15V131a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1223 1735)"/>
+    <path id="Rectangle_18" data-name="Rectangle 18" class="cls-4" d="M15,0h0A15,15,0,0,1,30,15V142a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1301 1724)"/>
+    <path id="Rectangle_19" data-name="Rectangle 19" class="cls-4" d="M15,0h0A15,15,0,0,1,30,15V154a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1379 1712)"/>
+    <path id="Rectangle_20" data-name="Rectangle 20" class="cls-4" d="M15,0h0A15,15,0,0,1,30,15V165a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1457 1701)"/>
+    <g class="cls-16" transform="matrix(1, 0, 0, 1, 1001, 1676)">
+      <g id="Ellipse_1-2" data-name="Ellipse 1" class="cls-5" transform="translate(77 34)">
+        <circle class="cls-9" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-10" cx="4.5" cy="4.5" r="4"/>
+      </g>
+    </g>
+    <g class="cls-15" transform="matrix(1, 0, 0, 1, 1001, 1676)">
+      <g id="Ellipse_2-2" data-name="Ellipse 2" class="cls-5" transform="translate(155 84)">
+        <circle class="cls-9" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-10" cx="4.5" cy="4.5" r="4"/>
+      </g>
+    </g>
+    <g class="cls-14" transform="matrix(1, 0, 0, 1, 1001, 1676)">
+      <g id="Ellipse_3-2" data-name="Ellipse 3" class="cls-5" transform="translate(232 67)">
+        <circle class="cls-9" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-10" cx="4.5" cy="4.5" r="4"/>
+      </g>
+    </g>
+    <g class="cls-13" transform="matrix(1, 0, 0, 1, 1001, 1676)">
+      <g id="Ellipse_4-2" data-name="Ellipse 4" class="cls-5" transform="translate(311 30)">
+        <circle class="cls-9" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-10" cx="4.5" cy="4.5" r="4"/>
+      </g>
+    </g>
+    <g class="cls-12" transform="matrix(1, 0, 0, 1, 1001, 1676)">
+      <g id="Ellipse_5-2" data-name="Ellipse 5" class="cls-5" transform="translate(389 23)">
+        <circle class="cls-9" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-10" cx="4.5" cy="4.5" r="4"/>
+      </g>
+    </g>
+    <g class="cls-11" transform="matrix(1, 0, 0, 1, 1001, 1676)">
+      <g id="Ellipse_6-2" data-name="Ellipse 6" class="cls-5" transform="translate(467 44)">
+        <circle class="cls-9" cx="4.5" cy="4.5" r="4.5"/>
+        <circle class="cls-10" cx="4.5" cy="4.5" r="4"/>
+      </g>
+    </g>
+    <text id="_271" data-name="271" class="cls-6" transform="translate(1082 1858)"><tspan x="-12.079" y="0">271</tspan></text>
+    <text id="_285" data-name="285" class="cls-6" transform="translate(1160 1858)"><tspan x="-12.079" y="0">285</tspan></text>
+    <text id="_301" data-name="301" class="cls-6" transform="translate(1238 1858)"><tspan x="-12.079" y="0">301</tspan></text>
+    <text id="_325" data-name="325" class="cls-6" transform="translate(1316 1858)"><tspan x="-12.079" y="0">325</tspan></text>
+    <text id="_350" data-name="350" class="cls-6" transform="translate(1394 1858)"><tspan x="-12.079" y="0">350</tspan></text>
+    <text id="_370" data-name="370" class="cls-6" transform="translate(1473 1858)"><tspan x="-12.079" y="0">370</tspan></text>
+    <text id="_190" data-name="190" class="cls-7" transform="translate(1001 1786)"><tspan x="0" y="0">190</tspan></text>
+    <text id="_2013_г." data-name="2013 г." class="cls-7" transform="translate(1063 1891)"><tspan x="0" y="0">2013 г.</tspan></text>
+    <text id="_2014_г." data-name="2014 г." class="cls-7" transform="translate(1141 1891)"><tspan x="0" y="0">2014 г.</tspan></text>
+    <text id="_2015_г." data-name="2015 г." class="cls-7" transform="translate(1219 1891)"><tspan x="0" y="0">2015 г.</tspan></text>
+    <text id="_2016_г." data-name="2016 г." class="cls-7" transform="translate(1297 1891)"><tspan x="0" y="0">2016 г.</tspan></text>
+    <text id="_2017_г." data-name="2017 г." class="cls-7" transform="translate(1375 1891)"><tspan x="0" y="0">2017 г.</tspan></text>
+    <text id="_2018_г." data-name="2018 г." class="cls-7" transform="translate(1456 1891)"><tspan x="0" y="0">2018 г.</tspan></text>
+    <text id="_4_" data-name="4%" class="cls-7" transform="translate(1518 1786)"><tspan x="0" y="0">4%</tspan></text>
+    <text id="_8_" data-name="8%" class="cls-7" transform="translate(1518 1708)"><tspan x="0" y="0">8%</tspan></text>
+    <text id="_7.89_" data-name="7.89%" class="cls-8" transform="translate(1376 1691)"><tspan x="0" y="0">7.89%</tspan></text>
+    <text id="_7.13_" data-name="7.13%" class="cls-8" transform="translate(1457 1712)"><tspan x="0" y="0">7.13%</tspan></text>
+    <text id="_7.79_" data-name="7.79%" class="cls-8" transform="translate(1298 1695)"><tspan x="0" y="0">7.79%</tspan></text>
+    <text id="_5.89_" data-name="5.89%" class="cls-8" transform="translate(1219 1727)"><tspan x="0" y="0">5.89%</tspan></text>
+    <text id="_4.96_" data-name="4.96%" class="cls-8" transform="translate(1141 1743)"><tspan x="0" y="0">4.96%</tspan></text>
+    <text id="_7.87_" data-name="7.87%" class="cls-8" transform="translate(1065 1702)"><tspan x="0" y="0">7.87%</tspan></text>
+    <text id="_380" data-name="380" class="cls-7" transform="translate(1001 1708)"><tspan x="0" y="0">380</tspan></text>
+  </g>
+</svg>

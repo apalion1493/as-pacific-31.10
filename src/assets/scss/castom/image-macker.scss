@@ -1,0 +1,235 @@
+.image-macker-page.section {
+  background: url("../img/image-macker-background.jpg") no-repeat center top;
+  background-size: cover;
+}
+
+.image-macker-page .container.first-container.first-container_title {
+  padding-bottom: 0;
+}
+
+.image-macker-second-slide_first-block {
+  display: flex;
+  margin-bottom: 95px;
+}
+
+.image-macker-second-slide_first-block__icon-container {
+  min-width: 80px;
+  margin-right: 20px;
+  align-self: flex-start;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.image-macker-second-slide_first-block__icon-distribution {
+  background: url("../img/music-image-macker.svg") no-repeat center;
+  width: 72px;
+  height: 58px;
+  display: block;
+}
+
+.image-macker-second-slide_first-block__icon-pr_campaigns {
+  background: url("../img/singer-image-macker.svg") no-repeat center;
+  width: 50px;
+  height: 61px;
+  display: block;
+}
+
+.image-macker-second-slide__ratio-block {
+  padding-left: 30px;
+}
+
+.caption-before-image {
+  text-align: center;
+  font-weight: bold;
+  font-size: 28px;
+  display: block;
+}
+
+.image-macker-second-slide__activity-block {
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-macker-second-slide__activity-block img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-macker-second-slide__activity-block__first-text {
+  position: absolute;
+  left: -70px;
+  top: 25px;
+}
+
+.image-macker-second-slide__activity-block__second-text {
+  position: absolute;
+  left: -70px;
+  top: 70px;
+}
+
+.capitalization-image-macker__block {
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.capitalization-image-macker {
+ max-width: 100%;
+  height: auto;
+}
+
+.image-macker-second-slide h2 {
+  text-transform: none;
+}
+
+.image-macker-second-slide p {
+  font-size: 18px;
+  color: #707070;
+}
+
+.image-macker-third-slide__img-block {
+  display: flex;
+}
+
+.image-macker-third-slide__img {
+  max-width: 100%;
+  height: 100%;
+  width: 20%;
+  transition: transform  ease 0.3s;
+}
+
+.image-macker-third-slide__img:hover {
+  transform: scale(1.2,1.2);
+  transition: transform  ease 0.3s;
+}
+
+//.image-macker-third-slide__img:nth-child(4) {
+//  display: none;
+//}
+
+.image-macker-fourth-slide {
+  h2 {
+    text-transform: none;
+  }
+
+  p {
+    font-size: 18px;
+    color: #707070;
+  }
+}
+
+.image-macker-second-slide .text-under-picture {
+  font-size: 14px;
+  color: #777777;
+}
+
+//@include media-breakpoint-down(xl) {
+//  .image-macker-third-slide__img:nth-child(5),
+//  .image-macker-third-slide__img:nth-child(6) {
+//    display: none;
+//  }
+//
+//  .image-macker-third-slide__img-block {
+//    justify-content: center;
+//  }
+//}
+//
+//@include media-breakpoint-down(lg) {
+//  .image-macker-third-slide__img:nth-child(4) {
+//    display: none;
+//  }
+//}
+//
+//@include media-breakpoint-down(md) {
+//  .capitalization-image-macker__block,
+//  .image-macker-second-slide__activity-block {
+//    margin-left: 0;
+//  }
+//
+//  .image-macker-second-slide__ratio-block {
+//    padding-left: 0;
+//  }
+//
+//  .image-macker-third-slide__img:nth-child(3) {
+//    display: none;
+//  }
+//}
+
+//@include media-breakpoint-down(sm) {
+//  .image-macker-third-slide__img:nth-child(2) {
+//    display: none;
+//  }
+//}
+
+
+
+
+//@include media-breakpoint-down(xl) {
+//  .image-macker-third-slide__img:nth-child(6) {
+//    display: none;
+//  }
+//}
+
+.image-macker-third-slide__img-block {
+  position:relative;
+  right: 100%;
+}
+
+@include media-breakpoint-down(lg) {
+  .image-macker-third-slide__img-block {
+    position: relative;
+    right: 100%;
+  }
+
+  .image-macker-third-slide {
+    padding: 0;
+  }
+}
+
+
+@include media-breakpoint-down(md) {
+  .capitalization-image-macker__block,
+  .image-macker-second-slide__activity-block {
+    margin-left: 0;
+  }
+
+  .image-macker-second-slide__ratio-block {
+    padding-left: 0;
+  }
+
+  .image-macker-third-slide__img-block {
+    position: relative;
+    right: 100%;
+  }
+
+  .image-macker-third-slide {
+    padding: 0;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+
+  .image-macker-third-slide__img-block {
+    right: 0;
+    justify-content: space-around;
+  }
+
+  .image-macker-third-slide__img {
+    display: none;
+    width: 33%;
+  }
+
+  .image-macker-third-slide__img:nth-child(3),
+  .image-macker-third-slide__img:nth-child(4),
+  .image-macker-third-slide__img:nth-child(5) {
+    display: block;
+  }
+
+  .image-macker-second-slide {
+    padding-bottom: 20px;
+  }
+}
+

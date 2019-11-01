@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="37px" viewBox="0 0 50 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>mice</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-8" transform="translate(-231.000000, -2185.000000)" fill-rule="nonzero">
+            <g id="mice" transform="translate(231.000000, 2185.000000)">
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0" y="19.01" width="49.43" height="17.32" rx="1.43"></rect>
+                <path d="M13,10.61 L18.67,10.61 C19.9960824,10.61 21.267852,11.1367842 22.2055339,12.0744661 C23.1432158,13.012148 23.67,14.2839176 23.67,15.61 L23.67,17.69 L8,17.69 L8,15.65 C7.98933566,14.3170006 8.51140822,13.0349308 9.45024847,12.0885798 C10.3890887,11.1422289 11.6669579,10.6099573 13,10.61 Z" id="Shape" fill="#CC6A6C"></path>
+                <circle id="Oval" fill="#CC6A6C" cx="15.88" cy="4.75" r="4.75"></circle>
+                <rect id="Rectangle-path" fill="#CC6A6C" x="31.18" y="9.49" width="4.87" height="8.31"></rect>
+                <rect id="Rectangle-path" fill="#CC6A6C" x="37.35" y="9.49" width="4.87" height="8.31"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

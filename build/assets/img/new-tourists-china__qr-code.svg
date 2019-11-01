@@ -1,0 +1,13 @@
+<svg id="new-tourists-china__qr-code" xmlns="http://www.w3.org/2000/svg" width="51.286" height="51.286" viewBox="0 0 51.286 51.286">
+  <g id="Group_153" data-name="Group 153">
+    <path id="Path_362" data-name="Path 362" d="M0,242.577H23.312V219.265H0Zm4.662-18.649H18.649v13.951H4.662Z" transform="translate(0 -191.291)" fill="#3d3c3b"/>
+    <rect id="Rectangle_78" data-name="Rectangle 78" width="4.662" height="4.663" transform="translate(9.325 37.298)" fill="#3d3c3b"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="4.663" height="4.662" transform="translate(37.298 46.623)" fill="#3d3c3b"/>
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="4.663" height="4.662" transform="translate(46.623 46.623)" fill="#3d3c3b"/>
+    <path id="Path_363" data-name="Path 363" d="M237.915,223.928h-4.662v-4.663H219.265v23.312h4.663V228.59h4.662v4.663h13.988V219.265h-4.662Z" transform="translate(-191.291 -191.291)" fill="#3d3c3b"/>
+    <path id="Path_364" data-name="Path 364" d="M0,23.312H23.312V0H0ZM4.662,4.662H18.649V18.649H4.662Z" fill="#cb2023"/>
+    <rect id="Rectangle_81" data-name="Rectangle 81" width="4.662" height="4.663" transform="translate(9.325 9.325)" fill="#cb2023"/>
+    <path id="Path_365" data-name="Path 365" d="M219.265,0V23.312h23.312V0Zm18.65,18.649H223.928V4.662h13.987Z" transform="translate(-191.291)" fill="#3d3c3b"/>
+    <rect id="Rectangle_82" data-name="Rectangle 82" width="4.663" height="4.663" transform="translate(37.298 9.325)"/>
+  </g>
+</svg>

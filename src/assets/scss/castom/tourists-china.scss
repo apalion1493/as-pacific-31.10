@@ -1,0 +1,235 @@
+.tourists-china-background.section {
+  background: url("../img/tourists-china-background.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.tourists-china-section__text {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.tourists-china__h1 {
+  font-size: 48px;
+}
+
+.tourists-china-section {
+  h1 {
+    margin-top: 52px;
+    margin-bottom: 50px;
+    font-weight: bold;
+  }
+}
+
+.tourists-china-section__icon {
+  min-width: 80px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  margin-right: 45px;
+}
+
+.tourists-china-section-block {
+  margin-bottom: 67px;
+
+  span {
+    font-size: 18px;
+    color: #282625;
+    margin-bottom: 12px;
+    display: block;
+  }
+
+  p {
+    font-size: 16px;
+    color: #777777;
+    margin-bottom: 10px;
+  }
+}
+
+.tourists-china-section__icon-motel {
+  background: url("../img/motel-light.svg") no-repeat center;
+  background-size: 100% auto;
+  display: block;
+  width: 54px;
+  height: 54px;
+}
+
+.tourists-china-section__icon-museum {
+  background: url("../img/british-museum-light.svg") no-repeat center;
+  background-size: 100% auto;
+  display: block;
+  width: 64px;
+  height: 53px;
+}
+
+.tourists-china-section__icon-shopping {
+  background: url("../img/shopping-mall-light.svg") no-repeat center;
+  background-size: 100% auto;
+  display: block;
+  width: 71px;
+  height: 55px;
+}
+
+.tourists-china-section__icon-bus {
+  background: url("../img/bus-light.svg") no-repeat center;
+  background-size: 100% auto;
+  display: block;
+  width: 68px;
+  height: 39px;
+}
+
+.tourists-china-section__icon-dinner {
+  background: url("../img/dinner-light.svg") no-repeat center;
+  background-size: 100% auto;
+  display: block;
+  width: 56px;
+  height: 45px;
+}
+
+.infrastructure-preparation-section {
+  background: url("../img/Prague-travel-poster-background.jpg") no-repeat center;
+  background-size: cover;
+  color: #ffffff;
+  padding-top: 66px;
+  padding-bottom: 100px;
+
+  h1 {
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+
+  p {
+    font-size: 24px;
+    margin-bottom: 50px;
+  }
+
+}
+
+.infrastructure-preparation-section__list {
+  li {
+    font-size: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    list-style-type: none;
+    
+    &:before {
+      content: '';
+      background: #AEAEAE;
+      border: 1px solid #ffffff;
+      border-radius: 50%;
+      width: 10px;
+      height: 10px;
+      position: absolute;
+      left: -30px;
+      top: 11px;
+    }
+  }
+}
+
+.tourists-china-benefits {
+  background: #F4F4F4;
+
+  h1 {
+    margin-top: 55px;
+    margin-bottom: 60px;
+    font-weight: bold;
+  }
+
+  .row {
+    margin-bottom: 150px;
+  }
+}
+
+.tourists-china-benefits__container {
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2901960784313726);
+  height: 160px;
+  overflow: hidden;
+  padding-left: 0;
+  margin-bottom: 20px;
+  border-radius: 9px;
+
+  p {
+    margin-bottom: 0;
+    margin-left: 40px;
+    font-size: 18px;
+  }
+}
+
+
+.tourists-china-benefits__block-icon {
+  width: 80px;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.tourists-china-benefits__block-icon i {
+  opacity: 0.5;
+}
+
+.tourists-china-benefits__icon-one {
+  background: url("../img/Fill-1.svg") no-repeat center;
+  display: block;
+  width: 51px;
+  height: 102px;
+  position: absolute;
+  left: 9px;
+}
+
+.tourists-china-benefits__icon-second {
+  background: url("../img/Fil-2.svg") no-repeat center;
+  display: block;
+  width: 79px;
+  height: 104px;
+  position: absolute;
+  left: -8px;
+}
+
+.tourists-china-benefits__icon-three {
+  background: url("../img/Fill-3.svg") no-repeat center;
+  display: block;
+  width: 78px;
+  height: 107px;
+  position: absolute;
+  left: -7px;
+}
+
+.tourists-china-benefits__icon-four {
+  background: url("../img/Fill-4.svg") no-repeat center;
+  display: block;
+  width: 75px;
+  height: 102px;
+  position: absolute;
+  left: -8px;
+}
+
+.infrastructure-preparation-section h2.tourists-china__h1 {
+  color: #fff
+}
+
+.infrastructure-preparation-section h3.tourists-china__h1 {
+  color: #fff
+}
+
+@media screen and (max-width: 1200px) {
+  .tourists-china__h1 {
+    font-size: 40px;
+  }
+
+  .infrastructure-preparation-section__list li {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 475px) {
+  .tourists-china__h1 {
+    font-size: 28px;
+  }
+
+  .tourists-china-section__text {
+    font-size: 18px;
+  }
+}

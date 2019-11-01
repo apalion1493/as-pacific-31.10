@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53.878 50.162">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cb2023;
+      }
+
+      .cls-2 {
+        fill: #282625;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="five__service-weibo" transform="translate(0 -2)">
+    <g id="Group_137" data-name="Group 137" transform="translate(0 2)">
+      <rect id="Rectangle_73" data-name="Rectangle 73" class="cls-1" width="46.446" height="32.512" transform="translate(0 13.005)"/>
+      <rect id="Rectangle_74" data-name="Rectangle 74" class="cls-2" width="46.446" height="13.005"/>
+      <circle id="Ellipse_29" data-name="Ellipse 29" class="cls-3" cx="2.787" cy="2.787" r="2.787" transform="translate(3.716 3.716)"/>
+      <circle id="Ellipse_30" data-name="Ellipse 30" class="cls-3" cx="2.787" cy="2.787" r="2.787" transform="translate(12.076 3.716)"/>
+      <circle id="Ellipse_31" data-name="Ellipse 31" class="cls-3" cx="2.787" cy="2.787" r="2.787" transform="translate(20.436 3.716)"/>
+      <path id="Path_325" data-name="Path 325" class="cls-3" d="M10.988,22.833H47.43a.916.916,0,0,0,0-1.833H10.988a.916.916,0,0,0,0,1.833Z" transform="translate(-6.221 -3.593)"/>
+      <path id="Path_329" data-name="Path 329" class="cls-3" d="M10.988,22.833H47.43a.916.916,0,0,0,0-1.833H10.988a.916.916,0,0,0,0,1.833Z" transform="translate(-6.221 3.407)"/>
+      <path id="Path_330" data-name="Path 330" class="cls-3" d="M10.988,22.833H47.43a.916.916,0,0,0,0-1.833H10.988a.916.916,0,0,0,0,1.833Z" transform="translate(-6.221 10.407)"/>
+      <path id="Path_331" data-name="Path 331" class="cls-3" d="M10.988,22.833H47.43a.916.916,0,0,0,0-1.833H10.988a.916.916,0,0,0,0,1.833Z" transform="translate(-6.221 17.407)"/>
+    </g>
+    <g id="Group_138" data-name="Group 138" transform="translate(31.584 29.868)">
+      <circle id="Ellipse_32" data-name="Ellipse 32" class="cls-2" cx="11.147" cy="11.147" r="11.147"/>
+      <path id="Path_324" data-name="Path 324" class="cls-3" d="M51.678,38.166a.928.928,0,0,0-1.293.232l-5.2,7.469-3.668-3.012a.929.929,0,1,0-1.178,1.436l4.446,3.65a.932.932,0,0,0,.589.211.987.987,0,0,0,.127-.008.934.934,0,0,0,.635-.389L51.91,39.46A.931.931,0,0,0,51.678,38.166Z" transform="translate(-34.426 -32.426)"/>
+    </g>
+  </g>
+</svg>

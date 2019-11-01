@@ -1,0 +1,68 @@
+.distribution-services-page.section {
+  background: #3D3C3B url(../img/background__distribution-services.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.distribution-services-second-slide__block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 300px;
+
+  p {
+    font-size: 18px;
+    color: #555555;
+  }
+}
+
+.distribution-services-second-slide__icon-block {
+  min-width: 100px;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-bottom: 40px;
+}
+
+.distribution-services-second-slide__icon-music {
+  background: url("../img/music__distribution-services.svg") no-repeat center;
+  width: 100px;
+  height: 89px;
+  display: block;
+}
+
+.distribution-services-second-slide__icon-video {
+  background: url("../img/video__distribution-services.svg") no-repeat center;
+  width: 85px;
+  height: 60px;
+  display: block;
+}
+
+.distribution-services-second-slide__icon-headphones {
+  background: url("../img/headphones__distribution-services.svg") no-repeat center;
+  display: block;
+  width: 76px;
+  height: 71px;
+}
+
+.distribution-services-second-slide__block-logos {
+  max-width: 730px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  margin-bottom: 130px;
+
+
+}
+
+@include media-breakpoint-down(sm) {
+  .distribution-services-second-slide__block {
+    margin-bottom: 30px;
+  }
+
+  .distribution-services-second-slide__block:nth-last-child {
+    margin-bottom: 0 !important;
+  }
+}

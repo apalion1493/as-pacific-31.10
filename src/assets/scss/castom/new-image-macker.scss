@@ -1,0 +1,346 @@
+.image-macker-page.section {
+  background: url("../img/image-macker-background.jpg") no-repeat center top;
+  background-size: cover;
+}
+
+.image-macker-page .container.first-container.first-container_title {
+  padding-bottom: 0;
+}
+
+.image-macker-second-slide_first-block {
+  display: flex;
+  margin-bottom: 95px;
+}
+
+.image-macker-second-slide_first-block__icon-container {
+  min-width: 80px;
+  margin-right: 20px;
+  align-self: flex-start;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.image-macker-second-slide_first-block__icon-distribution {
+  background: url("../img/music-image-macker.svg") no-repeat center;
+  width: 72px;
+  height: 58px;
+  display: block;
+}
+
+.image-macker-second-slide_first-block__icon-pr_campaigns {
+  background: url("../img/singer-image-macker.svg") no-repeat center;
+  width: 50px;
+  height: 61px;
+  display: block;
+}
+
+.image-macker-second-slide__ratio-block {
+  padding-left: 30px;
+}
+
+.caption-before-image {
+  text-align: center;
+  font-weight: bold;
+  font-size: 28px;
+  display: block;
+}
+
+.image-macker-second-slide__activity-block {
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-macker-second-slide__activity-block img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-macker-second-slide__activity-block__first-text {
+  position: absolute;
+  left: -70px;
+  top: 25px;
+}
+
+.image-macker-second-slide__activity-block__second-text {
+  position: absolute;
+  left: -70px;
+  top: 70px;
+}
+
+.capitalization-image-macker__block {
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.capitalization-image-macker {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-macker-second-slide h2 {
+  text-transform: none;
+}
+
+.image-macker-second-slide p {
+  font-size: 18px;
+  color: #707070;
+}
+
+.image-macker-third-slide__img-block {
+  display: flex;
+}
+
+.image-macker-third-slide__img {
+  max-width: 100%;
+  height: 100%;
+  width: 20%;
+  transition: transform  ease 0.3s;
+}
+
+.image-macker-third-slide__img:hover {
+  transform: scale(1.2,1.2);
+  transition: transform  ease 0.3s;
+}
+
+
+.image-macker-fourth-slide {
+  h2 {
+    text-transform: none;
+  }
+
+  p {
+    font-size: 18px;
+    color: #707070;
+  }
+}
+
+.image-macker-second-slide .text-under-picture {
+  font-size: 14px;
+  color: #777777;
+}
+
+.image-macker-third-slide__img-block {
+  position:relative;
+  right: 100%;
+}
+
+@include media-breakpoint-down(lg) {
+  .image-macker-third-slide__img-block {
+    position: relative;
+    right: 100%;
+  }
+
+  .image-macker-third-slide {
+    padding: 0;
+  }
+}
+
+
+@include media-breakpoint-down(md) {
+  .capitalization-image-macker__block,
+  .image-macker-second-slide__activity-block {
+    margin-left: 0;
+  }
+
+  .image-macker-second-slide__ratio-block {
+    padding-left: 0;
+  }
+
+  .image-macker-third-slide__img-block {
+    position: relative;
+    right: 100%;
+  }
+
+  .image-macker-third-slide {
+    padding: 0;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+
+  .image-macker-third-slide__img-block {
+    right: 0;
+    justify-content: space-around;
+  }
+
+  .image-macker-third-slide__img {
+    display: none;
+    width: 33%;
+  }
+
+  .image-macker-third-slide__img:nth-child(3),
+  .image-macker-third-slide__img:nth-child(4),
+  .image-macker-third-slide__img:nth-child(5) {
+    display: block;
+  }
+
+  .image-macker-second-slide {
+    padding-bottom: 20px;
+  }
+}
+
+
+
+.distribution-services-page.section {
+  background: #3D3C3B url(../img/background__distribution-services.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.distribution-services-second-slide__block {
+  display: flex;
+  align-items: center;
+
+  p {
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+  }
+}
+
+.distribution-services-second-slide__icon-block {
+  min-width: 100px;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-right: 25px;
+}
+
+.distribution-services-second-slide__icon-music {
+  background: url("../img/music__new-image.svg") no-repeat center;
+  width: 100px;
+  height: 89px;
+  display: block;
+}
+
+.distribution-services-second-slide__icon-video {
+  background: url("../img/video__new-image.svg") no-repeat center;
+  width: 85px;
+  height: 60px;
+  display: block;
+}
+
+.distribution-services-second-slide__icon-headphones {
+  background: url("../img/headphones__new-image.svg") no-repeat center;
+  display: block;
+  width: 76px;
+  height: 71px;
+}
+
+.distribution-services-second-slide__block-logos {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 116px;
+
+  img {
+    max-width: 791px;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .distribution-services-second-slide__block {
+    margin-bottom: 30px;
+  }
+
+  .distribution-services-second-slide__block:nth-last-child {
+    margin-bottom: 0 !important;
+  }
+}
+
+
+.pr-company-second-slide__block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pr-company-second-slide__icon-block {
+  min-width: 90px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-bottom: 45px;
+}
+
+.pr-company-second-slide__info-text {
+  display: flex;
+  flex-direction: column;
+
+  span {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 18px;
+    color: #555555;
+  }
+}
+
+.pr-company-second-slide__block-logos img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin-top: 38px;
+}
+
+.pr-company-second-slide__top-text {
+  font-size: 18px;
+  color: #555555;
+}
+
+.pr-company-second-slide__icon-media {
+  background: url("../img/media__pr-company.svg") no-repeat center;
+  width: 72px;
+  height: 72px;
+  display: block;
+}
+
+.pr-company-second-slide__icon-atl {
+  background: url("../img/atl__pr-company.svg") no-repeat center;
+  width: 85px;
+  height: 80px;
+  display: block;
+}
+
+.pr-company-second-slide__icon-community {
+  background: url("../img/community__pr-company.svg") no-repeat center;
+  width: 80px;
+  height: 78px;
+  display: block;
+}
+
+@media (max-width: 767.98px) {
+  .pr-company-second-slide__block-logos img {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 500px) {
+  .pr-company-second-slide__block-logos img {
+    display: none;
+  }
+}
+
+@include media-breakpoint-only(md) {
+  .distribution-services-second-slide__block {
+    flex-direction: column;
+  }
+
+  .distribution-services-second-slide__icon-block {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}

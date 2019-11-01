@@ -1,0 +1,215 @@
+.atl-btl-page {
+  background: #3D3C3B url(../img/atl-btl-page__background.jpg) no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.atl-btl-page-right-section {
+  margin-top: 160px;
+}
+
+.atl-btl-page-right-section__span {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 45px;
+}
+
+.atl-btl-page-right-section__block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 45px;
+}
+
+.atl-btl-page-right-section__block-img {
+  min-width: 80px;
+  margin-right: 30px;
+  display: flex;
+  justify-content: center;
+  align-self: flex-start;
+}
+
+.atl-btl-page-right-section__icon-social-networks {
+  background: url(../img/atl-btl-page__share.svg) no-repeat center;
+  width: 45px;
+  height: 45px;
+  display: block;
+}
+
+.atl-btl-page-servises {
+  display: flex;
+  align-items: center;
+  margin-bottom: 35px;
+  max-width: 600px;
+}
+
+.atl-btl-page-servises__icon-block {
+  align-self: flex-start;
+  min-width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  margin-right: 40px;
+}
+
+.atl-btl-page-servises__icon-copiraiting {
+  background: url("../img/atl-btl-page__kopiraiting.svg") no-repeat center;
+  width: 49px;
+  height: 51px;
+  display: block;
+}
+
+.atl-btl-page-servises__icon-content {
+  background: url("../img/atl-btl-page__content.svg") no-repeat center;
+  width: 55px;
+  height: 66px;
+  display: block;
+}
+
+.atl-btl-page-servises__icon-posting {
+  background: url("../img/atl-btl-page__posting.svg") no-repeat center;
+  width: 62px;
+  height: 53px;
+  display: block;
+}
+
+.atl-btl-page-servises__icon-metrica {
+  background: url("../img/atl-btl-page__sharebar-chart.svg") no-repeat center;
+  width: 72px;
+  height: 72px;
+  display: block;
+}
+
+.atl-btl-page-servises__text {
+  span {
+    font-size: 24px;
+    font-weight: bold;
+
+  }
+}
+
+.atl-btl-page-first-slide p {
+  font-size: 18px;
+  color: #707070;
+}
+
+.atl-btl-page-second-slide p {
+  font-size: 18px;
+  color: #555555;
+}
+
+.promotion-page-right-section__block-text a {
+  color: #707070;
+}
+
+.atl-btl-page-three-slide__logo-section {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.atl-btl-page-three-slide__logo-1 {
+   background: url("../img/atl-btl-page__logo-1.png") no-repeat center;
+   background-size: 100% auto;
+   width: 213px;
+   height: 78px;
+   display: inline-block;
+   margin-right: 20px;
+   margin-bottom: 45px;
+ }
+
+.atl-btl-page-three-slide__logo-2 {
+  background: url("../img/atl-btl-page__logo-2.png") no-repeat center;
+  background-size: 100% auto;
+  width: 155px;
+  height: 79px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 45px;
+}
+
+.atl-btl-page-three-slide__logo-3 {
+  background: url("../img/atl-btl-page__logo-3.png") no-repeat center;
+  background-size: 100% auto;
+  width: 228px;
+  height: 72px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 45px;
+}
+
+.atl-btl-page-three-slide__logo-4 {
+  background: url("../img/atl-btl-page__logo-4.png") no-repeat center;
+  background-size: 100% auto;
+  width: 242px;
+  height: 79px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 45px;
+}
+
+.atl-btl-page-three-slide__logo-5 {
+  background: url("../img/atl-btl-page__logo-5.png") no-repeat center;
+  background-size: 100% auto;
+  width: 264px;
+  height: 88px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 45px;
+}
+
+.atl-btl-page-three-slide__logo-6 {
+  background: url("../img/atl-btl-page__logo-6.png") no-repeat center;
+  background-size: 100% auto;
+  width: 149px;
+  height: 87px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 45px;
+}
+
+.atl-btl-page-three-slide__logo-7 {
+  background: url("../img/atl-btl-page__logo-7.png") no-repeat center;
+  background-size: 100% auto;
+  width: 152px;
+  height: 49px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 45px;
+}
+
+@include media-breakpoint-down(lg) {
+  .atl-btl-page-servises {
+    max-width: 100%;
+  }
+
+
+}
+
+@include media-breakpoint-down(md) {
+  .atl-btl-page-right-content {
+    display: none;
+  }
+}
+
+@include media-breakpoint-down(xs) {
+  .atl-btl-page-servises {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .atl-btl-page-servises__icon-block {
+    align-self: center;
+    margin-right: 0;
+  }
+
+  .atl-btl-page-servises__text  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    span {
+      margin-bottom: 15px;
+      font-size: 20px;
+    }
+  }
+}

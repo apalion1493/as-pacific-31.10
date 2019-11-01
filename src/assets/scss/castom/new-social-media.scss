@@ -1,0 +1,255 @@
+.new-social-media-page.section {
+  background: url("../../assets/img/new-social-media__bg.jpg") no-repeat center;
+  background-size: cover;
+  padding-bottom: 0;
+}
+
+.social-media_first-section {
+  padding-top: 47px;
+
+  p {
+    font-size: 18px;
+    color: #555555;
+  }
+}
+
+.social-media_first-section__section-list {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.social-media_first-section__block-img {
+  min-width: 75px;
+  display: flex;
+  justify-content: center;
+  margin-right: 30px;
+  margin-left: 10px;
+}
+
+.social-media_first-section__icon-wechat {
+  background: url("../../assets/img/new-social-media__wechat.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 60px;
+  height: 50px;
+  display: block;
+}
+
+.social-media_first-section__icon-weibo {
+  background: url("../../assets/img/new-social-media__weibo-mini.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 60px;
+  height: 50px;
+  display: block;
+}
+
+.social-media_first-section__icon-baidu-tieba {
+  background: url("../../assets/img/new-social-media__baidu.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 61px;
+  height: 62px;
+  display: block;
+}
+
+.social-media_first-section__icon-douyin {
+  background: url("../../assets/img/new-social-media__douyin.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 53px;
+  height: 62px;
+  display: block;
+}
+
+.social-media_first-section__icon-douban {
+  background: url("../../assets/img/new-social-media__douban_logo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 71px;
+  height: 35px;
+  display: block;
+}
+
+.social-media_first-section__block-content {
+
+  h4 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333333;
+  }
+}
+
+.social-media_second-section {
+  p {
+    color: #E3E3E3;
+    font-size: 18px;
+  }
+
+  span {
+    font-size: 20px;
+    color: #E3E3E3;
+    font-weight: bold;
+    margin-bottom: 20px;
+    display: block;
+  }
+}
+
+.social-media_second-section__img-block {
+  min-width: 80px;
+  display: flex;
+  justify-content: center;
+  margin-right: 30px;
+}
+
+.social-media_second-section__content-section {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.social-media_second-section__icon-first {
+  background: url("../../assets/img/new-social-media__first.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 57px;
+  height: 73px;
+  display: block;
+}
+
+.social-media_second-section__icon-second {
+  background: url("../../assets/img/new-social-media__second.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 76px;
+  height: 77px;
+  display: block;
+}
+
+.social-media_second-section__icon-three {
+  background: url("../../assets/img/new-social-media__three.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 66px;
+  height: 76px;
+  display: block;
+}
+
+.social-media_second-section__icon-fourth {
+  background: url("../../assets/img/new-social-media__fourth.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 79px;
+  height: 77px;
+  display: block;
+}
+
+.social-media_second-section__icon-five {
+  background: url("../../assets/img/new-social-media__fifth.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 56px;
+  height: 76px;
+  display: block;
+}
+
+.social-media_second-section__macbook-img {
+  background: url("../../assets/img/new-social-media__macbook-1@2x.png") no-repeat center;
+  background-size: 100% auto;
+  width: 1070px;
+  height: 670px;
+  position: absolute;
+  right: -830px;
+  bottom: -40px;
+}
+
+.social-media_second-section .container {
+  position: relative;
+}
+
+.social-media__three-section {
+  background: #2B2A29;
+  padding-top: 80px;
+
+  p {
+    color: #E3E3E3;
+    font-size: 24px;
+    margin-bottom: 0;
+  }
+}
+
+.social-media__three-section__img-block {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: -125px;
+  left: 100px;
+}
+
+.social-media__three-section__phone-one {
+  background: url("../../assets/img/new-social-media__phone-1@2x.png") no-repeat center;
+  background-size: 100% auto;
+  width: 251px;
+  height: 466px;
+}
+
+.social-media__three-section__phone-two {
+  background: url("../../assets/img/new-social-media__phone-2@2x.png") no-repeat center;
+  background-size: 100% auto;
+  width: 251px;
+  height: 466px;
+}
+
+.social-media__three-section__phone-three {
+  background: url("../../assets/img/new-social-media__phone-3@2x.png") no-repeat center;
+  background-size: 100% auto;
+  width: 251px;
+  height: 466px;
+}
+
+@media (max-width: 1200px) {
+  .social-media_second-section__macbook-img {
+    display: none;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .social-media__three-section__img-block {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .social-media__three-section {
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 470px) {
+  .social-media__three-section__phone-one,
+  .social-media__three-section__phone-two,
+  .social-media__three-section__phone-three {
+    width: 100%;
+    height: 300px;
+  }
+}
+
+@media (max-width: 424px) {
+  .social-media_second-section__content-section,
+  .social-media_first-section__section-list {
+    flex-direction: column;
+  }
+
+  .social-media_second-section__img-block,
+  .social-media_first-section__block-img {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  .social-media_second-section__text-block span,
+  .social-media_first-section__block-content h4 {
+    text-align: center;
+  }
+}
+
+@media (max-width: 375px) {
+  .social-media__three-section__phone-one,
+  .social-media__three-section__phone-two,
+  .social-media__three-section__phone-three {
+    width: 100%;
+    height: 250px;
+  }
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43.675 39.402">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cb2023;
+      }
+
+      .cls-2 {
+        fill: #282625;
+      }
+    </style>
+  </defs>
+  <g id="Artwork_3" data-name="Artwork 3" transform="translate(21.838 19.701)">
+    <g id="Group_124" data-name="Group 124" transform="translate(-21.838 -19.701)">
+      <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-1" cx="11.032" cy="11.032" r="11.032" transform="translate(6.447)"/>
+      <path id="Path_278" data-name="Path 278" class="cls-1" d="M35.288,124.293a.634.634,0,0,0-.59,0l-6.174,3.242a.634.634,0,0,1-.92-.669L28.783,120a.634.634,0,0,0-.183-.561l-4.993-4.86a.634.634,0,0,1-.146-.217,19.947,19.947,0,0,1-5.314.795,20.422,20.422,0,0,1-5.876-.961,8.429,8.429,0,0,0-5.776.251,10.64,10.64,0,0,0-6.5,9.8V127.8a1.744,1.744,0,0,0,1.744,1.744h32.33a1.744,1.744,0,0,0,1.744-1.744v-3.223Z" transform="translate(0 -90.138)"/>
+      <path id="Path_279" data-name="Path 279" class="cls-2" d="M134.729,88.456l2.7,5.471,6.037.877L139.1,99.063l1.031,6.013-5.4-2.839-5.4,2.839,1.031-6.013L125.991,94.8l6.037-.877Z" transform="translate(-99.79 -70.061)"/>
+    </g>
+  </g>
+</svg>

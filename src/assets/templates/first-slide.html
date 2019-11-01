@@ -1,0 +1,74 @@
+<style>
+    #wrapper {
+
+    }
+
+    @keyframes fixbody {
+        0%   { position: fixed; }
+        95%   { position: fixed; }
+        100%   { position: inherit; }
+    }
+
+
+
+    .slide-one {
+        background: url(/assets/img/cover_web_final-1.jpg) no-repeat center top;
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1000;
+
+    }
+
+    .slide-two {
+        background: url(/assets/img/cover_web_final-2.jpg) no-repeat center top;
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+        animation: slide-opacity 8s;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1001;
+
+    }
+
+    @keyframes slide-opacity {
+        0%   { opacity: 0.5; }
+        20%   { opacity: 1; }
+        25%   { opacity: 0.5; }
+        35%   { opacity: 1; }
+        40%   { opacity: 0.5; }
+        50%   { opacity: 1; }
+        55%   { opacity: 1; }
+        60%   { opacity: 1; }
+        70%   { opacity: 0.5; }
+        75%   { opacity: 1; }
+        80%   { opacity: 1; }
+        85%   { opacity: 1; }
+        95%   { opacity: 0.5; }
+        98%   { opacity: 1; }
+        100%  { opacity: 0.5; }
+    }
+
+    /*@keyframes slide-opacity {
+        0%   { opacity: 0; }
+        3%   { opacity: 0; }
+        4%   { opacity: 1; }
+        30%   { opacity: 1; }
+        31%   { opacity: 0; }
+        32%   { opacity:1; }
+        60%   { opacity:1; }
+        61%   { opacity:0; }
+        62%   { opacity:1; }
+        100%  { opacity: 1; }
+    }*/
+</style>
+<div id="main_preload">
+    <div class="slide-two"></div>
+    <div class="slide-one"></div>
+</div>
+

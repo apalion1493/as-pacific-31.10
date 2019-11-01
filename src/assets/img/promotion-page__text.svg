@@ -1,0 +1,16 @@
+<svg id="text_1_" data-name="text (1)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79 67.554">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cb2023;
+      }
+
+      .cls-2 {
+        fill: #282625;
+      }
+    </style>
+  </defs>
+  <path id="Path_77" data-name="Path 77" class="cls-1" d="M79,125.141H0v48.245H79ZM9.256,140.746a7.329,7.329,0,0,1,14.658,0v15.507H19.285v-9.1h-5.4v9.1H9.256Zm60.795,24.926H9.151v-4.629h60.9Zm0-9.258H27.928v-4.629H70.051Zm0-9.258H27.928v-4.629H70.051Zm0-9.258H27.928v-4.629H70.051Zm0,0" transform="translate(0 -105.832)"/>
+  <path id="Path_78" data-name="Path 78" class="cls-2" d="M79,0H0V14.68H79ZM12.706,9.975H8.076V5.346h4.63Zm7.715,0h-4.63V5.346h4.63Zm7.715,0H23.507V5.346h4.629Zm0,0"/>
+  <path id="Path_79" data-name="Path 79" class="cls-1" d="M95.389,211.478a2.7,2.7,0,0,0-5.4,0v1.78h5.4Zm0,0" transform="translate(-76.103 -176.564)"/>
+</svg>

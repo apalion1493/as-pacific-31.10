@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="256.634" viewBox="0 0 512 256.634">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb2023"/>
+      <stop offset="1" stop-color="#fa777a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_196" data-name="Group 196" transform="translate(-995 -814.366)">
+    <line id="Line_33" data-name="Line 33" x1="474" transform="translate(1033 1042)" fill="none" stroke="#afafaf" stroke-width="1"/>
+    <line id="Line_32" data-name="Line 32" x1="474" transform="translate(1033 985.089)" fill="none" stroke="#afafaf" stroke-width="1" opacity="0.329"/>
+    <line id="Line_30" data-name="Line 30" x1="474" transform="translate(1033 933.87)" fill="none" stroke="#afafaf" stroke-width="1" opacity="0.329"/>
+    <line id="Line_31" data-name="Line 31" x1="474" transform="translate(1033 876.96)" fill="none" stroke="#afafaf" stroke-width="1" opacity="0.329"/>
+    <line id="Line_34" data-name="Line 34" x1="474" transform="translate(1033 824.96)" fill="none" stroke="#afafaf" stroke-width="1" opacity="0.329"/>
+    <path id="Rectangle_117" data-name="Rectangle 117" d="M2.52,0H38.264a2.52,2.52,0,0,1,2.52,2.52v0a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A2.52,2.52,0,0,1,2.52,0Z" transform="translate(1063.168 1039.479)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_116" data-name="Rectangle 116" d="M5.9,0h28.98a5.9,5.9,0,0,1,5.9,5.9v0a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A5.9,5.9,0,0,1,5.9,0Z" transform="translate(1140.659 1036.097)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_115" data-name="Rectangle 115" d="M15,0H25.784a15,15,0,0,1,15,15v9.114a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1220.869 1017.886)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_114" data-name="Rectangle 114" d="M15,0H25.784a15,15,0,0,1,15,15V85.707a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1301.078 956.293)" fill="url(#linear-gradient)"/>
+    <text id="_0.011" data-name="0.011" transform="translate(1083.193 1031.992)" fill="#282625" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-18.002" y="0">0.011</tspan></text>
+    <text id="_0.057" data-name="0.057" transform="translate(1160.718 1028.748)" fill="#282625" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-18.002" y="0">0.057</tspan></text>
+    <text id="_0.484" data-name="0.484" transform="translate(1240.577 1013.122)" fill="#282625" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-18.002" y="0">0.484</tspan></text>
+    <text id="_1.5" data-name="1.5" transform="translate(1320.436 950.667)" fill="#282625" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-9.95" y="0">1.5</tspan></text>
+    <text id="_3.5" data-name="3.5" transform="translate(1021 938.146)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-18.129" y="0">3.5</tspan></text>
+    <text id="_1.75" data-name="1.75" transform="translate(1025 990.089)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-25.676" y="0">1.75</tspan></text>
+    <text id="_2013" data-name="2013" transform="translate(1070 1067)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2013</tspan></text>
+    <text id="_2014" data-name="2014" transform="translate(1147 1067)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2014</tspan></text>
+    <text id="_2015" data-name="2015" transform="translate(1227 1067)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2015</tspan></text>
+    <text id="_2016" data-name="2016" transform="translate(1307 1067)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2016</tspan></text>
+    <text id="_5.25" data-name="5.25" transform="translate(1021 881.366)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-25.676" y="0">5.25</tspan></text>
+    <text id="_7" data-name="7" transform="translate(1021 829.366)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-7.547" y="0">7</tspan></text>
+    <path id="Rectangle_113" data-name="Rectangle 113" d="M15,0H25.784a15,15,0,0,1,15,15V135.577a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1382.647 906.423)" fill="url(#linear-gradient)"/>
+    <text id="_4.4" data-name="4.4" transform="translate(1403.295 900.521)" fill="#282625" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-9.95" y="0">4.4</tspan></text>
+    <text id="_2017" data-name="2017" transform="translate(1387 1067)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2017</tspan></text>
+    <path id="Rectangle_112" data-name="Rectangle 112" d="M15,0H25.784a15,15,0,0,1,15,15V204.487a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1464.216 837.512)" fill="url(#linear-gradient)"/>
+    <text id="_6.6" data-name="6.6" transform="translate(1484.655 832.61)" fill="#282625" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-9.95" y="0">6.6</tspan></text>
+    <text id="_2018" data-name="2018" transform="translate(1471 1067)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2018</tspan></text>
+  </g>
+</svg>

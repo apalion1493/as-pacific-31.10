@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72.262 72.262">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #282625;
+      }
+
+      .cls-2 {
+        fill: #cb2023;
+      }
+    </style>
+  </defs>
+  <g id="Иллюстрация_1" data-name="Иллюстрация 1" transform="translate(36.131 36.131)">
+    <g id="Group_25" data-name="Group 25" transform="translate(-36.131 -36.131)">
+      <path id="Path_47" data-name="Path 47" class="cls-1" d="M311.585,9.709,301.877,0H301V10.585h10.585Z" transform="translate(-258.518)"/>
+      <path id="Path_48" data-name="Path 48" class="cls-1" d="M136,2.512V44.835a2.023,2.023,0,0,0,2.023,2.023h29.822a2.028,2.028,0,0,0,2.028-2.028V14.819H155.053V0H138.512A2.512,2.512,0,0,0,136,2.512Zm6.351,8.073h8.468v4.234h-8.468Zm21.171,29.639H142.351V35.99h21.171Zm0-8.468H142.351V27.522h21.171Zm0-12.7v4.234H142.351V19.054Z" transform="translate(-116.805)"/>
+      <path id="Path_49" data-name="Path 49" class="cls-2" d="M129.468,452v4.234h-6.024A2.444,2.444,0,0,0,121,458.678v1.79h38.107v-1.577a2.657,2.657,0,0,0-2.657-2.657h-5.811V452Z" transform="translate(-103.922 -388.206)"/>
+      <path id="Path_50" data-name="Path 50" class="cls-2" d="M0,362H72.262v5.13a3.338,3.338,0,0,1-3.338,3.338H3.492A3.492,3.492,0,0,1,0,366.976Z" transform="translate(0 -310.908)"/>
+      <path id="Path_51" data-name="Path 51" class="cls-2" d="M2.959,60h12V98.389H0V62.959A2.959,2.959,0,0,1,2.959,60Z" transform="translate(0 -51.532)"/>
+      <path id="Path_52" data-name="Path 52" class="cls-2" d="M406,60h12.372a2.588,2.588,0,0,1,2.588,2.588v35.8H406Z" transform="translate(-348.698 -51.532)"/>
+    </g>
+  </g>
+</svg>

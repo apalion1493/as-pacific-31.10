@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="34px" viewBox="0 0 42 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>atl</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-8" transform="translate(-1290.000000, -1455.000000)" fill-rule="nonzero">
+            <g id="atl" transform="translate(1290.000000, 1455.000000)">
+                <polygon id="Shape" fill="#3D3C3B" points="16.03 9.73 16.03 8.75 3.31 8.75 3.31 10.96 0 10.96 0 20.12 3.31 20.12 3.31 22.33 6.08 22.33 6.08 22.33 13.8 22.33 13.8 22.33 16.03 22.33 16.03 21.35 16.03 21.35 16.03 9.73"></polygon>
+                <polygon id="Shape" fill="#CB2023" points="14.34 24.82 6.62 24.82 8.57 33.74 16.29 33.74"></polygon>
+                <path d="M21.41,8 C20.35,8.4 19.41,8.73 18.51,9 L18.51,22 C19.37,22.27 20.35,22.61 21.41,23 C26.5289801,24.9483706 31.3311007,27.6442979 35.66,31 L35.66,0 C31.3286693,3.35203348 26.5271142,6.04764338 21.41,8 Z" id="Shape" fill="#CB2023"></path>
+                <path d="M38.8,9.74 L38.14,9.74 L38.14,21.34 L38.8,21.34 C40.4568542,21.34 41.8,19.9968542 41.8,18.34 L41.8,12.77 C41.8080087,11.9691654 41.4954773,11.1983739 40.9319978,10.6292596 C40.3685183,10.0601453 39.6008747,9.73995996 38.8,9.74 Z" id="Shape" fill="#CB2023"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+.portfolio.section#section1 {
+  background: #1A1A1A url("../img/map-line.png") no-repeat;
+  background-position: right 40px top 100px;
+
+}
+
+.title-portfolio h1 {
+  font-size: 57px;
+  color: #fff;
+  padding-top: 300px;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+  max-width: 950px;
+  display: block;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.title-portfolio p {
+  color: #fff;
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+
+.portfolio-block.inset {
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-list-t .title-alive-case p {
+  left: -141%;
+}
+
+#finacom {
+  background: url(../potfolio-files/53/little-cover.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.finacom {
+  background: #3D3C3B url(../potfolio-files/53/big-cover.png) no-repeat center top;
+  background-size: cover;
+  padding-bottom: 0;
+}

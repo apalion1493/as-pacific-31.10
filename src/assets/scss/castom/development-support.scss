@@ -1,0 +1,242 @@
+.development-support-page.section .first-container {
+  padding-bottom: 0;
+}
+
+.icon-first-slide-d4a {
+  background: url(../img/domen-name__development-support.svg) no-repeat center;
+  width: 43px;
+  height: 39px;
+  left: 15px;
+  top: 20px;
+  position: absolute;
+}
+
+.icon-first-slide-d5a {
+  background: url(../img/server__development-support.svg) no-repeat center;
+  width: 40px;
+  height: 39px;
+  left: 15px;
+  top: 25px;
+  position: absolute;
+}
+
+.icon-first-slide-d6a {
+  background: url(../img/random.svg) no-repeat center;
+  width: 40px;
+  height: 40px;
+  left: 15px;
+  top: 20px;
+  position: absolute;
+}
+
+.icon-first-slide-d7a {
+  background: url(../img/baidu__development-support.svg) no-repeat center;
+  width: 36px;
+  height: 41px;
+  left: 15px;
+  top: 20px;
+  position: absolute;
+}
+
+.icon-first-slide-d8a {
+  background: url(../img/certificate__development-support.svg) no-repeat center;
+  width: 35px;
+  height: 43px;
+  left: 15px;
+  top: 20px;
+  position: absolute;
+}
+
+.development-support-third-slide{
+  color: #ffffff;
+
+  h2 {
+    max-width: 970px;
+    margin-bottom: 80px;
+  }
+}
+
+.development-support-third-slide__block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.right-arrow {
+  background: url("../img/arrow__development-support.svg") no-repeat center;
+  width: 204px;
+  height: 30px;
+  display: block;
+  position: absolute;
+}
+
+.development-support-third-slide__block-icon {
+  min-width: 80px;
+  display: block;
+  margin-bottom: 35px;
+}
+
+.development-support-third-slide__icon-translate {
+  background: url("../img/language-black__development-support.svg") no-repeat center;
+  display: block;
+  width: 55px;
+  height: 55px;
+}
+
+.development-support-third-slide__icon-server {
+  background: url("../img/server-black__development-support.svg") no-repeat center;
+  display: block;
+  width: 60px;
+  height: 58px;
+}
+
+.development-support-third-slide__icon-laptop {
+  background: url("../img/laptop-black__development-support.svg") no-repeat center;
+  display: block;
+  width: 70px;
+  height: 59px;
+}
+
+.development-support-third-slide__icon-wechat {
+  background: url("../img/wechat-black__development-support.svg") no-repeat center;
+  display: block;
+  width: 60px;
+  height: 51px;
+}
+
+.development-support-third-slide__icon-media {
+  background: url("../img/laptop-3.svg") no-repeat center;
+  display: block;
+  width: 60px;
+  height: 51px;
+}
+
+.right-arrow_first {
+  right: -105px;
+  top: -46px;
+}
+
+.right-arrow_second {
+  right: -110px;
+  top: -46px;
+}
+
+.right-arrow_third {
+  right: -110px;
+  top: -46px;
+}
+
+.development-support-fourth-slide ul {
+  margin-top: 37px;
+  padding-left: 15px;
+
+  li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  i {
+    display: block;
+    background: #CB2023;
+    border-radius: 50%;
+    min-width: 10px;
+    height: 10px;
+    margin-right: 20px;
+    align-self: flex-start;
+    margin-top: 8px;
+  }
+}
+
+.development-support-fourth-slide p {
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+
+.development-support-second-slide .text-fourth-slide p {
+  color: #555555;
+  font-size: 18px;
+}
+
+.development-support-second-slide .under-first-slide-text {
+  color: #555555;
+  font-size: 18px;
+}
+
+.development-support-page p {
+  font-size: 24px;
+}
+
+@include media-breakpoint-down(md) {
+  .right-arrow_second {
+    display: none;
+  }
+
+  .development-support-third-slide__block-third,
+  .development-support-third-slide__block-fourth {
+    margin-bottom: 60px;
+  }
+}
+
+
+@include media-breakpoint-down(sm) {
+  .right-arrow {
+    display: none;
+  }
+
+  .development-support-third-slide__block {
+    margin-top: 50px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+//--------------------------------
+
+.tourists-china-section .tourists-china-section__text {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.infrastructure-preparation-section .tourists-china__h1 {
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+
+.tourists-china-section .tourists-china__h1 {
+  max-width: 1020px;
+  margin-top: 55px;
+  margin-bottom: 50px;
+}
+
+.tourists-china-benefits .tourists-china__h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 62px;
+}
+
+@media screen and (max-width: 510px) {
+  .tourists-china-benefits .tourists-china__h1 {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .tourists-china-benefits .tourists-china__h1 {
+    font-size: 32px;
+  }
+}
+//----------------------------

@@ -1,0 +1,123 @@
+.china-license-second-slide__first-title {
+  margin-top: 15px;
+  display: block;
+}
+
+.china-license-second-slide {
+  span {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 18px;
+    color: #555555;
+  }
+}
+
+
+
+.china-license-third-slide .text-dull-white {
+  color: #E3E3E3;
+  font-size: 18px;
+}
+
+.china-license-third-slide__title {
+  font-size: 18px;
+  max-width: 750px;
+}
+
+.china-license-third-slide__title-first {
+  margin-top: 30px;
+  margin-bottom: 58px;
+}
+
+.china-license-third-slide__title-second {
+  margin-top: 12px;
+  margin-bottom: 25px;
+}
+
+.china-license-third-slide__block-line {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.china-license-third-slide__block-line-img {
+  background: url("../img/line__china-license.svg") no-repeat center;
+  background-size: 100% auto;
+  display: block;
+  max-width: 1020px;
+  width: 100%;
+  height: 30px;
+}
+
+.china-license-third-slide__range-services {
+  display: flex;
+  align-items: center;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.china-license-second-slide__sample {
+  margin-top: 25%;
+
+  span {
+    margin-bottom: 38px;
+    display: block;
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+.icp-img {
+  color: #fff;
+  display: block;
+  font-size: 18px;
+}
+
+.china-license-third-slide__list {
+
+  padding-left: 20px;
+
+  li {
+    list-style-type: none;
+    display: flex;
+    margin-bottom: 25px;
+  }
+
+  i {
+    display: block;
+    background: url("../img/warning__china-license.svg") no-repeat center;
+    min-width: 35px;
+    height: 35px;
+    margin-right: 24px;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .china-license-second-slide__sample {
+    margin-top: 20px;
+
+    img {
+      width: auto;
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .china-license-second-slide__sample {
+
+    img {
+      width: 100%;
+    }
+  }
+}

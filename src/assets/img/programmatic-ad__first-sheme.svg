@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="568" height="204" viewBox="0 0 568 204">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb2023" stop-opacity="0.992"/>
+      <stop offset="1" stop-color="#fa777a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb2023"/>
+      <stop offset="1" stop-color="#fa777a"/>
+    </linearGradient>
+    <filter id="Ellipse_1" x="68" y="67" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2" x="128" y="15" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3" x="187" y="59" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_4" x="245" y="106" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5" x="303" y="109" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_6" x="362" y="113" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_37" x="422" y="118" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_38" x="482" y="125" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_213" data-name="Group 213" transform="translate(-995 -1600)">
+    <g id="Group_211" data-name="Group 211">
+      <line id="Line_9" data-name="Line 9" x1="474" transform="translate(1033 1775)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <line id="Line_10" data-name="Line 10" x1="474" transform="translate(1033 1733)" fill="none" stroke="#afafaf" stroke-width="1" opacity="0.329"/>
+      <line id="Line_11" data-name="Line 11" x1="474" transform="translate(1033 1691)" fill="none" stroke="#afafaf" stroke-width="1" opacity="0.329"/>
+      <line id="Line_12" data-name="Line 12" x1="474" transform="translate(1033 1652)" fill="none" stroke="#afafaf" stroke-width="1" opacity="0.329"/>
+      <line id="Line_13" data-name="Line 13" x1="474" transform="translate(1033 1612)" fill="none" stroke="#afafaf" stroke-width="1" opacity="0.329"/>
+      <path id="Path_1" data-name="Path 1" d="M10313.831-14708h474l-15.718-38.627-60.586-7.287-59.566-5.023-59.426-3.58-57.768-4.124-58.271-46.608-59.2-44.177-54.273,47.393-49.194,43.393Z" transform="translate(-9280.832 16483)" fill="#c1b0b0" opacity="0.341"/>
+      <path id="Rectangle_15" data-name="Rectangle 15" d="M15,0h0A15,15,0,0,1,30,15V37a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1063 1738)" fill="url(#linear-gradient)"/>
+      <path id="Rectangle_16" data-name="Rectangle 16" d="M15,0h0A15,15,0,0,1,30,15V62a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1122 1713)" fill="url(#linear-gradient-2)"/>
+      <path id="Rectangle_17" data-name="Rectangle 17" d="M15,0h0A15,15,0,0,1,30,15V76a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1180 1699)" fill="url(#linear-gradient-2)"/>
+      <path id="Rectangle_18" data-name="Rectangle 18" d="M15,0h0A15,15,0,0,1,30,15V91a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1237 1684)" fill="url(#linear-gradient-2)"/>
+      <path id="Rectangle_19" data-name="Rectangle 19" d="M15,0h0A15,15,0,0,1,30,15v91a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1296 1669)" fill="url(#linear-gradient-2)"/>
+      <path id="Rectangle_20" data-name="Rectangle 20" d="M15,0h0A15,15,0,0,1,30,15V124a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1355 1651)" fill="url(#linear-gradient-2)"/>
+      <g transform="matrix(1, 0, 0, 1, 995, 1600)" filter="url(#Ellipse_1)">
+        <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(77 73)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 995, 1600)" filter="url(#Ellipse_2)">
+        <g id="Ellipse_2-2" data-name="Ellipse 2" transform="translate(137 21)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 995, 1600)" filter="url(#Ellipse_3)">
+        <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(196 65)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 995, 1600)" filter="url(#Ellipse_4)">
+        <g id="Ellipse_4-2" data-name="Ellipse 4" transform="translate(254 112)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 995, 1600)" filter="url(#Ellipse_5)">
+        <g id="Ellipse_5-2" data-name="Ellipse 5" transform="translate(312 115)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 995, 1600)" filter="url(#Ellipse_6)">
+        <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(371 119)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <text id="_14.6" data-name="14.6" transform="translate(1078 1767)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">14.6</tspan></text>
+      <text id="_22.8" data-name="22.8" transform="translate(1136 1767)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">22.8</tspan></text>
+      <text id="_31.2" data-name="31.2" transform="translate(1195 1767)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">31.2</tspan></text>
+      <text id="_37.4" data-name="37.4" transform="translate(1252 1767)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">37.4</tspan></text>
+      <text id="_44.1" data-name="44.1" transform="translate(1311 1767)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">44.1</tspan></text>
+      <text id="_51.3" data-name="51.3" transform="translate(1370 1767)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">51.3</tspan></text>
+      <text id="_35" data-name="35" transform="translate(1021 1695)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-15.094" y="0">35</tspan></text>
+      <text id="_17.5" data-name="17.5" transform="translate(1021 1738)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-25.676" y="0">17.5</tspan></text>
+      <text id="_2013_" data-name="2013 " transform="translate(1065 1800)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2013 </tspan></text>
+      <text id="_2014" data-name="2014" transform="translate(1122 1800)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2014</tspan></text>
+      <text id="_2015" data-name="2015" transform="translate(1181 1800)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2015</tspan></text>
+      <text id="_2016" data-name="2016" transform="translate(1239 1800)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2016</tspan></text>
+      <text id="_2017" data-name="2017" transform="translate(1298 1800)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2017</tspan></text>
+      <text id="_2018F" data-name="2018F" transform="translate(1353 1800)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2018F</tspan></text>
+      <text id="_15.00_" data-name="15.00%" transform="translate(1518 1738)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">15.00%</tspan></text>
+      <text id="_30.00_" data-name="30.00%" transform="translate(1518 1697)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">30.00%</tspan></text>
+      <text id="_45.00_" data-name="45.00%" transform="translate(1518 1656)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">45.00%</tspan></text>
+      <text id="_60.00_" data-name="60.00%" transform="translate(1518 1615)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">60.00%</tspan></text>
+      <text id="_70" data-name="70" transform="translate(1021 1617)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-15.094" y="0">70</tspan></text>
+      <text id="_52.5" data-name="52.5" transform="translate(1021 1657)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-25.676" y="0">52.5</tspan></text>
+      <path id="Rectangle_99" data-name="Rectangle 99" d="M15,0h0A15,15,0,0,1,30,15V146a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1415 1629)" fill="url(#linear-gradient-2)"/>
+      <text id="_58.8" data-name="58.8" transform="translate(1430 1767)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">58.8</tspan></text>
+      <text id="_2019F" data-name="2019F" transform="translate(1414 1800)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2019F</tspan></text>
+      <path id="Rectangle_100" data-name="Rectangle 100" d="M15,0h0A15,15,0,0,1,30,15V156a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(1475 1619)" fill="url(#linear-gradient-2)"/>
+      <text id="_64.6" data-name="64.6" transform="translate(1491 1767)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-13.976" y="0">64.6</tspan></text>
+      <text id="_2020F" data-name="2020F" transform="translate(1472 1800)" fill="#777" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2020F</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 995, 1600)" filter="url(#Ellipse_37)">
+        <g id="Ellipse_37-2" data-name="Ellipse 37" transform="translate(431 124)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 995, 1600)" filter="url(#Ellipse_38)">
+        <g id="Ellipse_38-2" data-name="Ellipse 38" transform="translate(491 131)" fill="#fff" stroke="#cecece" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <text id="_10.10_" data-name="10.10%" transform="translate(1477 1720)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">10.10</tspan><tspan y="0" fill="#282625">%</tspan></text>
+      <text id="_14.30_" data-name="14.30%" transform="translate(1417 1716)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">14.30</tspan><tspan y="0" fill="#282625">%</tspan></text>
+      <text id="_16.60_" data-name="16.60%" transform="translate(1357 1712)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">16.60</tspan><tspan y="0" fill="#282625">%</tspan></text>
+      <text id="_17.90_" data-name="17.90%" transform="translate(1298 1709)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">17.90</tspan><tspan y="0" fill="#282625">%</tspan></text>
+      <text id="_19.50_" data-name="19.50%" transform="translate(1239 1705)" fill="#fff" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">19.50</tspan><tspan y="0" fill="#282625">%</tspan></text>
+      <text id="_36.50_" data-name="36.50%" transform="translate(1177 1658)" fill="#282625" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">36.50%</tspan></text>
+      <text id="_56.50_" data-name="56.50%" transform="translate(1122 1614)" fill="#282625" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">56.50%</tspan></text>
+      <text id="_36.80_" data-name="36.80%" transform="translate(1067 1664)" fill="#282625" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">36.80%</tspan></text>
+    </g>
+  </g>
+</svg>

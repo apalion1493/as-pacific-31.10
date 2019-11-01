@@ -1,0 +1,284 @@
+.wechat-pay-background {
+  background-image: url(../img/wechat-pay-bg.jpg);
+}
+
+.wechat-pay-section {
+  padding-top: 30px;
+
+  .right-links a {
+    margin-left: 0;
+    font-size: 18px;
+    line-height: 21px;
+    color: #555555;
+  }
+
+  .right-links-inset {
+    margin-right: 10px;
+  }
+
+  &__h2 {
+    color: #555555;
+    margin-bottom: 34px;
+    line-height: 61px;
+  }
+
+  &__btn {
+    min-width: 265px;
+    height: 50px;
+    border-radius: 31px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+  &__text {
+    font-size: 18px;
+    line-height: 22px;
+    color: #555555;
+  }
+
+  &__item {
+    display: flex;
+    align-items: flex-start;
+    max-width: 90%;
+  }
+
+  &__item-img {
+    min-width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 16px;
+  }
+
+  &__item-text {
+    font-size: 16px;
+    line-height: 19px;
+    color: #555555;
+    margin-bottom: 0;
+  }
+
+  &__icon-shopping {
+    background: url("../img/segue-shopping-cart-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 43px;
+    height: 43px;
+    display: block;
+  }
+
+  &__icon-qrCode {
+    background: url("../img/qr-code-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 36px;
+    height: 36px;
+    display: block;
+  }
+
+  &__icon-password {
+    background: url("../img/password-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 42px;
+    height: 42px;
+    display: block;
+  }
+
+  &__icon-smartphone {
+    background: url("../img/smartphone-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 43px;
+    height: 43px;
+    display: block;
+  }
+
+  &__icon-shopping-cart {
+    background: url("../img/segue-shopping-cart-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 43px;
+    height: 43px;
+    display: block;
+  }
+
+  &__img-phone {
+    background: url("../img/img-phone-bg.png") no-repeat center;
+    background-size: 100% auto;
+    width: 520px;
+    height: 590px;
+    position: absolute;
+    right: -300px;
+    top: -30px;
+    display: block;
+  }
+
+  &__icon-shopping-btn {
+    background: url("../img/shopping-online-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 43px;
+    height: 43px;
+    display: block;
+  }
+
+  &__icon-green-check {
+    background: url("../img/cloud-check-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 43px;
+    height: 37px;
+    display: block;
+  }
+
+  &__icon-payment-method {
+    background: url("../img/payment-method-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 49px;
+    height: 49px;
+    display: block;
+  }
+
+  &__block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__block-img {
+    min-width: 64px;
+    height: 65px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+  }
+
+  &__icon-human {
+    background: url("../img/wechat-pay-section__icon-human.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 64px;
+    height: 64px;
+    display: block;
+  }
+
+  &__icon-bank {
+    background: url("../img/wechat-pay-section__icon-bank.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 64px;
+    height: 64px;
+    display: block;
+  }
+
+  &__icon-marker {
+    background: url("../img/wechat-pay-section__icon-marker.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 64px;
+    height: 64px;
+    display: block;
+  }
+
+  &__block-title {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #555555;
+    margin-top: 15px;
+  }
+
+  &__schedule {
+    list-style-type: none;
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+  
+  &__link {
+    text-decoration: underline;
+  }
+
+  &__mb-1 {
+    margin-bottom: 70px;
+  }
+
+  &__mb-2 {
+    margin-bottom: 77px;
+  }
+
+  &__mb-3 {
+    margin-bottom: 58px;
+  }
+
+  &__mb-4 {
+    margin-bottom: 72px;
+  }
+
+  &__mb-5 {
+    margin-bottom: 68px;
+  }
+}
+
+.section .wechat-pay-section__h3 {
+  font-size: 32px;
+  line-height: 40px;
+  color: #555555;
+  font-weight: 800;
+}
+
+.wechat-pay-section__item_arrow:before {
+  content: '';
+  background: url("../img/wechat-pay-section__arrow.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 27px;
+  height: 18px;
+  display: block;
+  position: absolute;
+  margin: auto;
+  top: 13px;
+  right: 0;
+}
+
+.wechat-pay-section .red-list-points {
+  list-style-type: disc;
+  li p {
+    margin-bottom: 12px;
+  }
+}
+
+.steps-p-b-t {
+  padding-left: 70px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.steps-tr-1 {
+  background: url(../img/1.svg) 0 11px no-repeat;
+}
+
+.steps-tr-2 {
+  background: url(../img/2.svg) 0 11px no-repeat;
+}
+
+.steps-tr-3 {
+  background: url(../img/3.svg) 0 11px no-repeat;
+}
+
+.steps-tr-4 {
+  background: url(../img/4.svg) 0 11px no-repeat;
+}
+
+.right-links .douyin i {
+  display: block;
+  background: url(../img/douyin.svg) center/50px no-repeat;
+  width: 70px;
+  height: 70px;
+}
+
+.right-links .wechat-check i {
+  display: block;
+  background: url(../img/cloud-check-icon.svg) center/50px no-repeat;
+  width: 70px;
+  height: 70px;
+}
+
+@media (max-width: 767.98px) {
+  .wechat-pay-section__item_arrow:before,
+  .wechat-pay-section__img-phone {
+    display: none;
+  }
+}
