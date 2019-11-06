@@ -1,0 +1,288 @@
+.hosting-background {
+  background-image: url(../img/hosting-background.jpg);
+}
+
+.hosting-section {
+  &__first {
+    margin-bottom: 72px;
+  }
+
+  &__second {
+    margin-bottom: 48px;
+  }
+
+  &__third {
+    margin-bottom: 70px;
+  }
+
+  &__fourth {
+    margin-bottom: 70px;
+  }
+
+  &__fifth {
+    margin-bottom: 41px;
+  }
+
+  &_container {
+    .title-h2 {
+      max-width: 870px;
+      line-height: 56px;
+    }
+  }
+
+  &__list {
+    padding-left: 0;
+    list-style-type: none;
+  }
+
+  &__block {
+    display: flex;
+  }
+
+  &__block-img {
+    min-width: 127px;
+    display: flex;
+    justify-content: center;
+  }
+
+  &__provider {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__provider-img {
+    min-height: 70px;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 40px;
+  }
+
+  &__sixth-block {
+    display: flex;
+    margin-bottom: 35px;
+  }
+
+  &__sixth-block-img {
+    min-width: 51px;
+    display: flex;
+    justify-content: center;
+    margin-right: 26px;
+  }
+
+  &__fifth-list {
+    padding-left: 0;
+    margin-top: 40px;
+  }
+
+  &__fifth-item-content  {
+    padding-left: 65px;
+    display: flex;
+    align-items: center;
+    
+    &.steps-tr-1 {
+      background-position: 0 0;
+    }
+
+    &.steps-tr-2 {
+      background-position: 0 0;
+    }
+
+    &.steps-tr-3 {
+      background-position: 0 0;
+    }
+
+    p {
+      font-weight: bold;
+      font-size: 32px;
+      line-height: 37px;
+      color: #555555;
+      padding-bottom: 23px;
+      margin-bottom: 0;
+    }
+  }
+
+  &__fifth-list {
+    list-style-type: none;
+  }
+
+  &__schedule {
+    margin-top: 40px;
+    list-style-type: none;
+  }
+
+  &__schedule-block {
+    display: flex;
+  }
+
+  &__schedule-item {
+    margin-bottom: 30px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &__schedule-img {
+    min-width: 40px;
+    display: flex;
+    justify-content: center;
+    margin-right: 35px;
+  }
+}
+
+.speed-meter-icon {
+  background: url("../img/speed-meter-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 53px;
+  height: 53px;
+  display: block;
+}
+
+.award-red-icon {
+  background: url("../img/award-red-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 59px;
+  height: 59px;
+  display: block;
+}
+
+.ban-circle-symbol-icon {
+  background: url("../img/ban-circle-symbol-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+
+.alibaba-logo-provider {
+  background: url("../img/alibaba-logo-provider.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 135px;
+  height: 66px;
+  display: block;
+}
+
+.tencet-logo-provider {
+  background: url("../img/tencet-logo-provider.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 130px;
+  height: 69px;
+  display: block;
+}
+
+.baidu-logo-provider {
+  background: url("../img/baidu-logo-provider.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 64px;
+  height: 64px;
+  display: block;
+}
+
+.cn-red-logo {
+  background: url("../img/cn-red-logo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 47px;
+  height: 40px;
+  display: block;
+}
+
+.china-flag-logo {
+  background: url("../img/china-flag-logo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+
+.hosting-icon {
+  background: url("../img/hosting-data-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 35px;
+  height: 44px;
+  display: block;
+}
+
+.loupe-red-icon {
+  background: url("../img/loupe-red-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+
+.iconfinder_cssi_baidu-logo {
+  background: url("../img/iconfinder_cssi_baidu-logo.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 51px;
+  height: 51px;
+  display: block;
+}
+
+.text-decoration-underline {
+  text-decoration: underline;
+}
+
+.server-red-icon {
+  background: url("../img/server-red-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 35px;
+  height: 35px;
+  display: block;
+}
+
+.ui-red-icon {
+  background: url("../img/ui-red-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 37px;
+  height: 37px;
+  display: block;
+}
+
+.place-icon-red {
+  background: url("../img/place-icon-red.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 37px;
+  height: 37px;
+  display: block;
+}
+
+.english-language-icon-red {
+  background: url("../img/english-language-icon-red.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 37px;
+  height: 37px;
+  display: block;
+}
+
+.like-red-icon {
+  background: url("../img/like-red-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 35px;
+  height: 35px;
+  display: block;
+}
+
+.business-and-finance-red-icon {
+  background: url("../img/business-and-finance-red-icon.svg") no-repeat center;
+  background-size: 100% auto;
+  width: 38px;
+  height: 38px;
+  display: block;
+}
+
+@media (max-width: 767.98px) {
+  .hosting-section__schedule {
+    padding-left: 0;
+  }
+
+  .hosting-section__block-img {
+    min-width: 60px;
+    margin-right: 15px;
+  }
+
+  .hosting-section__fifth-item-content p {
+    font-size: 22px;
+    line-height: normal;
+  }
+}
